@@ -1,120 +1,34 @@
-Ki Lung Ng
-Sylvestre Monnou
-Delmas Ntcha
-Alexis Klegou
-Petros Tsitsipas
-Blaise Bicknell
-Rowland Phillips
-Karim Mohamed Maamoun
-Menelaos Efstathiou
-Coleman Wong
-Luca Van Assche
-Lleyton Cronje
-Skander Mansouri
-Tegar Abdi Satrio Wibowo
-Casper Ruud
-Rafael Nadal
-Nathan Anthony Barki
-Leo Borg
-Ainius Sabaliauskas
-Amr Elsayed Abdou Ahmed Mohamed
-Petros Chrysochos
-Hugo Nys
-Leandro Riedi
-Benjamin Hassan
-Yoshihito Nishioka
-Valentin Vacherot
-Hady Habib
-Daniels Tens
-Karlis Ozolins
-Viktor Durasovic
-Robert Strombachs
-Cesar Cruz
-Marcelo Arevalo
-Fitriadi M Rifqi
-Brandon Holt
-Yuttana Charoenphon
-Federico Zeballos
-Kasidit Samrej
-Nicolas Alvarez Varona
-Darian King
-Matthew Foster Estwick
-Edas Butvilas
-Rio Noguchi
-Jan Zielinski
-Philip Henning
-Johannes Ingildsen
-Christian Sigsgaard
-Dragos Nicolae Madaras
-Sebastian Dominko
-Blaz Rola
-Francesco Maestrelli
-Sergey Fomin
-Martin Cuevas
-Lukas Hellum Lilleengen
-Lucas Catarina
-Sumit Nagal
-Vladyslav Orlov
-Carlos Taberner
-Viacheslav Bielinskyi
-Kiranpal Pannu
-Daniel Cukierman
-Yanki Erel
-Bor Artnak
-Laslo Djere
-Aleksandar Kovacevic
-Andrej Nedic
-Ugo Humbert
-Luis Carlos Alvarez Valdes
-Alan Fernando Rubio Fierros
-Muzammil Murtaza
-Gabi Adrian Boitan
-Gabriel Diallo
-Nick Hardt
 Arthur Fils
 Michael Geerts
-Eero Vasa
+Leo Borg
 Martin Landaluce
 Sho Shimabukuro
-Hong Kit Jack Wong
 Yshai Oliel
-Sebastian Ofner
-Isaac Becroft
-Enzo Couacaud
 Edan Leshem
-Nerman Fatic
-Jay Clarke
+Francesco Maestrelli
+Dragos Nicolae Madaras
 Yunseong Chung
 Ji Sung Nam
-Thanasi Kokkinakis
 Hiroki Moriya
+Aleksandar Kovacevic
 Evan Furness
 Facundo Mena
 Learner Tien
+Brandon Holt
 Shintaro Mochizuki
-Gian Marco Moroni
-Osgar Ohoisin
 Alexis Galarneau
-Pedro Martinez
-Pedro Cachin
 Bradley Klahn
 Kyle Edmund
 Nicolas Barrientos
 Rodrigo Pacheco Mendez
 Gerald Melzer
-Ben Shelton
 Alexander Shevchenko
-Filip Horansky
 Gilles Arnaud Bailly
 Vitaliy Sachko
 Hernan Casanova
-Steve Johnson
-Yasutaka Uchiyama
 Alastair Gray
 Alexander Ritschard
-Salvatore Caruso
 Nicola Kuhn
-Peter Gojowczyk
 Lukas Klein
 Andrea Vavassori
 Gonzalo Villanueva
@@ -124,172 +38,139 @@ Ryan Peniston
 Dominic Stricker
 Matthew Ebden
 Robin Haase
-Timofey Skatov
 Pedro Sousa
 Tim Van Rijthoven
 Attila Balazs
-Yuta Shimizu
-Nicolas Kicker
 Geoffrey Blancaneaux
 Zdenek Kolar
-Matic Kriznik
 Alessandro Giannessi
 Andres Martin
 Borna Gojo
 Camilo Ugo Carabelli
+Yasutaka Uchiyama
 Andrey Kuznetsov
-Pablo Carreno Busta
+Leandro Riedi
 Luca Nardi
 Matteo Arnaldi
 Marc Andrea Huesler
-Federico Coria
-Matheus Pucinelli De Almeida
 Francesco Passaro
-Aisam Ul Haq Qureshi
 Carlos Gimeno Valero
 Max Hans Rehberg
-Franco Agamenone
-Zsombor Piros
 Marko Topo
-Mark Lajal
-Roberto Quiroz
-Yibing Wu
-Antoine Bellier
 Zhizhen Zhang
 Nuno Borges
 Dominic Thiem
+Franco Agamenone
 Hamad Medjedovic
 Tommy Robredo
 Manuel Guinard
 Stan Wawrinka
 Alexandar Lazarov
+Antoine Bellier
 Mirza Basic
-Jaume Munar
-Hugo Grenier
 Steven Diez
 Borna Coric
+Matheus Pucinelli De Almeida
 Juan Alejandro Hernandez Serrano
-Juncheng Shang
 Sebastian Korda
-Miomir Kecmanovic
 Thomas Fabbiano
 Daniel Dutra Da Silva
-Feliciano Lopez
 Denis Istomin
 Mitchell Krueger
-Yosuke Watanuki
 Elliot Benchetrit
 Vasek Pospisil
 Jenson Brooksby
-Federico Gaio
-Mikael Torpegaard
-Alejandro Gonzalez
 Pablo Cuevas
 John Isner
+Hugo Grenier
 Novak Djokovic
 Dennis Novak
 Cem Ilkel
 Cameron Norrie
-Jack Sock
 Daniel Evans
-Jason Jung
+Federico Gaio
 Arjun Kadhe
 Ramkumar Ramanathan
-Bu Yunchaokete
 Ilya Ivashka
+Gian Marco Moroni
 Altug Celikbilek
 Marcos Giron
-Aleksandre Metreveli
 Jurij Rodionov
 Quentin Halys
 Bernabe Zapata Miralles
-Botic Van De Zandschulp
 Vit Kopriva
 Prajnesh Gunneswaran
 Yuki Bhambri
-Cristian Garin
 Jesper De Jong
-Juan Ignacio Londero
 Gilles Simon
 Jo-Wilfried Tsonga
-Jordan Thompson
 Nicolas Jarry
 Andrej Martin
-Juan Martin del Potro
 Fernando Verdasco
-Corentin Moutet
-Michael Bassem Sobhy
-Jason Kubler
-Stefanos Tsitsipas
-Illia Biloborodko
 Juan Pablo Varillas
 Holger Rune
 Juan Pablo Ficovich
 Dimitar Kuzmanov
+Juan Ignacio Londero
 Alejandro Davidovich Fokina
 Nick Kyrgios
-Mikhail Kukushkin
 Ernesto Escobedo
 Richard Gasquet
+Pedro Cachin
 Karen Khachanov
 Tomas Machac
+Luca Van Assche
+Juncheng Shang
 Emilio Nava
-Grigor Dimitrov
 Tommy Paul
 J J Wolf
 Albert Ramos
 Emilio Gomez
-Elmer Moller
-Simon Carr
 Norbert Gombos
 Andrey Rublev
-Chun Hsin Tseng
-Muhammad Shoaib
 Constant Lestienne
 Thiago Seyboth Wild
 Jiri Lehecka
 Tennys Sandgren
+Enzo Couacaud
 Liam Broady
-Ignacio Carou
-Ivan Gakhov
-Lucky Candra Kurniawan
 Joao Sousa
-Tomas Martin Etcheverry
+Yibing Wu
 Tomas Barrios Vera
 Tung Lin Wu
 Filip Misolic
 Christian Harrison
 Taro Daniel
-Laurynas Grigelis
 Gonzalo Lama
+Chun Hsin Tseng
 Yannick Hanfmann
-Max Purcell
 Jozef Kovalik
 Cedrik Marcel Stebe
-Francisco Cerundolo
-Otto Virtanen
+Carlos Taberner
 Radu Albot
 Carlos Alcaraz
-Peter Bertran
+Tomas Martin Etcheverry
 Alexey Vatutin
 Daniel Elahi Galan
+Federico Coria
 Hugo Dellien
-Aqeel Khan
+Salvatore Caruso
 Hugo Gaston
-Nikola Milojevic
+Corentin Moutet
 Denis Kudla
 Fabio Fognini
+Pedro Martinez
 Pablo Andujar
 Sam Querrey
+Miomir Kecmanovic
+Steve Johnson
 Brandon Nakashima
-Taylor Fritz
 Marius Copil
-Stylianos Christodoulou
-Kaichi Uchida
 Rinky Hijikata
-Damir Dzumhur
+Peter Gojowczyk
 Flavio Cobolli
 Kevin Anderson
+Nicolas Kicker
 Adrian Mannarino
 Nick Chappell
 Sebastian Baez
@@ -297,78 +178,89 @@ Christopher Oconnell
 Stefan Kozlov
 Christopher Eubanks
 Andreas Seppi
-Mili Poljicak
 Gijs Brouwer
 Jack Draper
 Pierre Hugues Herbert
 Stefano Travaglia
 Facundo Bagnis
 Pavel Kotov
+Jordan Thompson
+Nikola Milojevic
+Taylor Fritz
+Feliciano Lopez
 David Goffin
 Gianluca Mager
-Mohamed Safwat
 Alexei Popyrin
-Nicolas Alvarez
+Jaume Munar
 Lloyd Harris
-Seong Chan Hong
-Nicolas Mejia
-Mikael Ymer
+Ben Shelton
+Botic Van De Zandschulp
 Thiago Monteiro
 Alex Molcan
 Maxime Cressy
+Jack Sock
+Grigor Dimitrov
+Rafael Nadal
 Aleksandar Vukic
+Francisco Cerundolo
 Daniel Altmaier
+Mili Poljicak
 Benjamin Bonzi
 Filip Krajinovic
-Aziz Dougaz
 Duje Ajdukovic
 Alex De Minaur
 Michail Pervolarakis
-Murkel Alejandro Dellien Velasco
-Aljaz Bedene
-Kacper Zuk
+Yoshihito Nishioka
 Lucas Pouille
-Cayetano March
 Dusan Lajovic
 Jiri Vesely
 Arthur Rinderknech
 Lorenzo Musetti
 Bjorn Fratangelo
 Alex Bolt
+Kacper Zuk
 Oscar Otte
 Beibit Zhukayev
 Tallon Griekspoor
+Mikhail Kukushkin
 Soon Woo Kwon
+Ivan Gakhov
 Felix Auger Aliassime
+Max Purcell
 Marco Trungelliti
+Laslo Djere
 Frances Tiafoe
 Andy Murray
+Casper Ruud
 Malek Jaziri
+Seong Chan Hong
 Caleb Chakravarthi
-Kaipo Marshall
 Philipp Kohlschreiber
 Juan Manuel Cerundolo
-Kristjan Tamm
-Sanjar Fayziev
-Ajeet Rai
+Lucas Catarina
 Maximilian Marterer
 Egor Gerasimov
+Thanasi Kokkinakis
+Yuta Shimizu
 Dino Prizmic
-Gerardo Lopez Villasenor
+Stefanos Tsitsipas
+Mikael Ymer
 Henri Squire
 Elias Ymer
 Ricardas Berankis
 Marin Cilic
 Aslan Karatsev
 Emil Ruusuvuori
+Aljaz Bedene
+Timofey Skatov
 Kamil Majchrzak
 Alejandro Tabilo
 Gael Monfils
 Dominik Koepfer
-Rigele Te
+Nicolas Alvarez Varona
 Nikoloz Basilashvili
-William Blumberg
 Henri Laaksonen
+Jan Zielinski
 Marton Fucsovics
 Jannik Sinner
 Marco Cecchinato
@@ -378,28 +270,38 @@ Benoit Paire
 Mackenzie Mcdonald
 Roberto Carballes Baena
 John Millman
+Rio Noguchi
 Roman Safiullin
 Johan Nikles
 Brayden Schnur
 Federico Delbonis
 Reilly Opelka
 Alexander Bublik
-Nicholas David Ionel
+Damir Dzumhur
 Gregoire Barrere
 Alexander Zverev
+Pablo Carreno Busta
 Jan Lennard Struff
-Dmitry Popko
+Ugo Humbert
 Michael Mmoh
+Yosuke Watanuki
 Aleksandre Bakshi
+Kaichi Uchida
 Renzo Olivo
+Sebastian Ofner
+Juan Martin del Potro
+Cristian Garin
 Zizou Bergs
+William Blumberg
 James Duckworth
-Diego Fernandez Flores
+Viktor Durasovic
 Lorenzo Sonego
-Olaf Pieczkowski
+Aleksandre Metreveli
 Felipe Meligeni Alves
+Jason Kubler
 Matteo Berrettini
 Daniil Medvedev
+Jay Clarke
 Santiago Fa Rodriguez Taverna
 Hubert Hurkacz
 Giulio Zeppieri
