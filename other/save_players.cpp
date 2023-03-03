@@ -1,7 +1,7 @@
 #include <fstream>
 #include <string>
 #include <unordered_set>
-#include "csv.h"
+#include "../csv.h"
 
 using std::string;
 
@@ -10,7 +10,7 @@ void store_players_from_input(string input_file_name);
 void save_players_to_file(string output_file_name);
 
 int main() {
-    string input_file_name = "2022_data.csv";
+    string input_file_name = "past_year_data.csv";
     string output_file_name = "all_players.txt";
 
     store_players_from_input(input_file_name);
