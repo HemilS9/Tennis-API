@@ -1,12 +1,525 @@
 {
+  "Skander Mansouri": {
+    "name": "Skander Mansouri",
+    "last_match_date": "20230203",
+    "elo_hard": "71317.5",
+    "elo_clay": "72100",
+    "elo_grass": "72100",
+    "ranking": "279",
+    "recent_wins": "4"
+  },
+  "Petros Chrysochos": {
+    "name": "Petros Chrysochos",
+    "last_match_date": "20230203",
+    "elo_hard": "649.9",
+    "elo_clay": "1000",
+    "elo_grass": "1000",
+    "ranking": "990",
+    "recent_wins": "5"
+  },
+  "Devin Badenhorst": {
+    "name": "Devin Badenhorst",
+    "last_match_date": "20230204",
+    "elo_hard": "-72325.1",
+    "elo_clay": "-71700",
+    "elo_grass": "-71700",
+    "ranking": "1717",
+    "recent_wins": "4"
+  },
+  "Kris Van Wyk": {
+    "name": "Kris Van Wyk",
+    "last_match_date": "20230204",
+    "elo_hard": "46850",
+    "elo_clay": "48400",
+    "elo_grass": "48400",
+    "ranking": "516",
+    "recent_wins": "3"
+  },
+  "Anthony Susanto": {
+    "name": "Anthony Susanto",
+    "last_match_date": "20230204",
+    "elo_hard": "-72400.1",
+    "elo_clay": "-71700",
+    "elo_grass": "-71700",
+    "ranking": "1717",
+    "recent_wins": "4"
+  },
+  "Nam Hoang Ly": {
+    "name": "Nam Hoang Ly",
+    "last_match_date": "20230204",
+    "elo_hard": "76025.2",
+    "elo_clay": "75700",
+    "elo_grass": "75700",
+    "ranking": "243",
+    "recent_wins": "7"
+  },
+  "Minhtuan Pham": {
+    "name": "Minhtuan Pham",
+    "last_match_date": "20230204",
+    "elo_hard": "-58425.1",
+    "elo_clay": "-57800",
+    "elo_grass": "-57800",
+    "ranking": "1578",
+    "recent_wins": "4"
+  },
+  "Diego Duran": {
+    "name": "Diego Duran",
+    "last_match_date": "20230203",
+    "elo_hard": "99220",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Mousa Alkotop": {
+    "name": "Mousa Alkotop",
+    "last_match_date": "20230203",
+    "elo_hard": "-59745.1",
+    "elo_clay": "-59400",
+    "elo_grass": "-59400",
+    "ranking": "1594",
+    "recent_wins": "5"
+  },
+  "Karam Hatamleh": {
+    "name": "Karam Hatamleh",
+    "last_match_date": "20230203",
+    "elo_hard": "99225",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Marcelo Arevalo": {
+    "name": "Marcelo Arevalo",
+    "last_match_date": "20230203",
+    "elo_hard": "100400",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "7"
+  },
+  "Juan Borba": {
+    "name": "Juan Borba",
+    "last_match_date": "20230203",
+    "elo_hard": "100000",
+    "elo_clay": "99225",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Amr Elsayed Abdou Ahmed Mohamed": {
+    "name": "Amr Elsayed Abdou Ahmed Mohamed",
+    "last_match_date": "20230203",
+    "elo_hard": "42600",
+    "elo_clay": "41950.1",
+    "elo_grass": "42600",
+    "ranking": "574",
+    "recent_wins": "5"
+  },
+  "Saba Purtseladze": {
+    "name": "Saba Purtseladze",
+    "last_match_date": "20230202",
+    "elo_hard": "45080.1",
+    "elo_clay": "44900",
+    "elo_grass": "44900",
+    "ranking": "551",
+    "recent_wins": "6"
+  },
+  "Raul Garcia": {
+    "name": "Raul Garcia",
+    "last_match_date": "20230202",
+    "elo_hard": "99225",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Clement Mainguy": {
+    "name": "Clement Mainguy",
+    "last_match_date": "20230203",
+    "elo_hard": "98375",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "3"
+  },
+  "Darian King": {
+    "name": "Darian King",
+    "last_match_date": "20230203",
+    "elo_hard": "24132.5",
+    "elo_clay": "23500",
+    "elo_grass": "23500",
+    "ranking": "765",
+    "recent_wins": "7"
+  },
+  "Benjamin Hassan": {
+    "name": "Benjamin Hassan",
+    "last_match_date": "20230203",
+    "elo_hard": "66957.6",
+    "elo_clay": "67600",
+    "elo_grass": "67600",
+    "ranking": "324",
+    "recent_wins": "5"
+  },
+  "Viacheslav Bielinskyi": {
+    "name": "Viacheslav Bielinskyi",
+    "last_match_date": "20230203",
+    "elo_hard": "38075",
+    "elo_clay": "37800",
+    "elo_grass": "37800",
+    "ranking": "622",
+    "recent_wins": "6"
+  },
+  "Hady Habib": {
+    "name": "Hady Habib",
+    "last_match_date": "20230203",
+    "elo_hard": "54274.9",
+    "elo_clay": "54900",
+    "elo_grass": "54900",
+    "ranking": "451",
+    "recent_wins": "4"
+  },
+  "Vladyslav Orlov": {
+    "name": "Vladyslav Orlov",
+    "last_match_date": "20230203",
+    "elo_hard": "61625.1",
+    "elo_clay": "61500",
+    "elo_grass": "61500",
+    "ranking": "385",
+    "recent_wins": "6"
+  },
+  "Ergi Kirkin": {
+    "name": "Ergi Kirkin",
+    "last_match_date": "20230203",
+    "elo_hard": "62475",
+    "elo_clay": "62200",
+    "elo_grass": "62200",
+    "ranking": "378",
+    "recent_wins": "6"
+  },
+  "Sebastian Dominko": {
+    "name": "Sebastian Dominko",
+    "last_match_date": "20230203",
+    "elo_hard": "5674.9",
+    "elo_clay": "6300",
+    "elo_grass": "6300",
+    "ranking": "937",
+    "recent_wins": "4"
+  },
+  "Menelaos Efstathiou": {
+    "name": "Menelaos Efstathiou",
+    "last_match_date": "20230203",
+    "elo_hard": "10249.9",
+    "elo_clay": "10600",
+    "elo_grass": "10600",
+    "ranking": "894",
+    "recent_wins": "5"
+  },
+  "Kasidit Samrej": {
+    "name": "Kasidit Samrej",
+    "last_match_date": "20230203",
+    "elo_hard": "38244.8",
+    "elo_clay": "39500",
+    "elo_grass": "39500",
+    "ranking": "605",
+    "recent_wins": "3"
+  },
+  "Fitriadi M Rifqi": {
+    "name": "Fitriadi M Rifqi",
+    "last_match_date": "20230204",
+    "elo_hard": "-13700",
+    "elo_clay": "-13200",
+    "elo_grass": "-13200",
+    "ranking": "1132",
+    "recent_wins": "5"
+  },
+  "Yuttana Charoenphon": {
+    "name": "Yuttana Charoenphon",
+    "last_match_date": "20230203",
+    "elo_hard": "1974.9",
+    "elo_clay": "2400",
+    "elo_grass": "2400",
+    "ranking": "976",
+    "recent_wins": "5"
+  },
+  "Vilius Gaubas": {
+    "name": "Vilius Gaubas",
+    "last_match_date": "20230203",
+    "elo_hard": "24275",
+    "elo_clay": "24000",
+    "elo_grass": "24000",
+    "ranking": "760",
+    "recent_wins": "6"
+  },
+  "Aqeel Khan": {
+    "name": "Aqeel Khan",
+    "last_match_date": "20230203",
+    "elo_hard": "99150",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Edas Butvilas": {
+    "name": "Edas Butvilas",
+    "last_match_date": "20230203",
+    "elo_hard": "21950",
+    "elo_clay": "21600",
+    "elo_grass": "21600",
+    "ranking": "784",
+    "recent_wins": "6"
+  },
+  "Robert Strombachs": {
+    "name": "Robert Strombachs",
+    "last_match_date": "20230204",
+    "elo_hard": "50745",
+    "elo_clay": "51400",
+    "elo_grass": "51400",
+    "ranking": "486",
+    "recent_wins": "4"
+  },
+  "Adolfo Daniel Vallejo": {
+    "name": "Adolfo Daniel Vallejo",
+    "last_match_date": "20230203",
+    "elo_hard": "27000",
+    "elo_clay": "27550",
+    "elo_grass": "27000",
+    "ranking": "730",
+    "recent_wins": "7"
+  },
+  "Juan Carlos Prado Angelo": {
+    "name": "Juan Carlos Prado Angelo",
+    "last_match_date": "20230202",
+    "elo_hard": "15587.3",
+    "elo_clay": "16900",
+    "elo_grass": "16900",
+    "ranking": "831",
+    "recent_wins": "3"
+  },
+  "Daniel Cukierman": {
+    "name": "Daniel Cukierman",
+    "last_match_date": "20230204",
+    "elo_hard": "62800",
+    "elo_clay": "63300",
+    "elo_grass": "63300",
+    "ranking": "367",
+    "recent_wins": "5"
+  },
+  "Alec Beckley": {
+    "name": "Alec Beckley",
+    "last_match_date": "20230204",
+    "elo_hard": "30674.9",
+    "elo_clay": "31300",
+    "elo_grass": "31300",
+    "ranking": "687",
+    "recent_wins": "4"
+  },
+  "Ernests Gulbis": {
+    "name": "Ernests Gulbis",
+    "last_match_date": "20230204",
+    "elo_hard": "71230.1",
+    "elo_clay": "71100",
+    "elo_grass": "71100",
+    "ranking": "289",
+    "recent_wins": "6"
+  },
+  "Chris Rodesch": {
+    "name": "Chris Rodesch",
+    "last_match_date": "20230204",
+    "elo_hard": "27875",
+    "elo_clay": "27600",
+    "elo_grass": "27600",
+    "ranking": "724",
+    "recent_wins": "6"
+  },
+  "Karlis Ozolins": {
+    "name": "Karlis Ozolins",
+    "last_match_date": "20230204",
+    "elo_hard": "-21780.1",
+    "elo_clay": "-21500",
+    "elo_grass": "-21500",
+    "ranking": "1215",
+    "recent_wins": "5"
+  },
+  "Prajnesh Gunneswaran": {
+    "name": "Prajnesh Gunneswaran",
+    "last_match_date": "20230203",
+    "elo_hard": "65932.6",
+    "elo_clay": "65800",
+    "elo_grass": "65800",
+    "ranking": "342",
+    "recent_wins": "6"
+  },
+  "Colin Sinclair": {
+    "name": "Colin Sinclair",
+    "last_match_date": "20230203",
+    "elo_hard": "53392.5",
+    "elo_clay": "53900",
+    "elo_grass": "53900",
+    "ranking": "461",
+    "recent_wins": "5"
+  },
+  "August Holmgren": {
+    "name": "August Holmgren",
+    "last_match_date": "20230203",
+    "elo_hard": "50855",
+    "elo_clay": "51600",
+    "elo_grass": "51600",
+    "ranking": "484",
+    "recent_wins": "4"
+  },
+  "Yuki Bhambri": {
+    "name": "Yuki Bhambri",
+    "last_match_date": "20230203",
+    "elo_hard": "42274.9",
+    "elo_clay": "42900",
+    "elo_grass": "42900",
+    "ranking": "571",
+    "recent_wins": "4"
+  },
+  "Sergey Fomin": {
+    "name": "Sergey Fomin",
+    "last_match_date": "20230203",
+    "elo_hard": "62774.9",
+    "elo_clay": "63400",
+    "elo_grass": "63400",
+    "ranking": "366",
+    "recent_wins": "4"
+  },
+  "Fabian Marozsan": {
+    "name": "Fabian Marozsan",
+    "last_match_date": "20230203",
+    "elo_hard": "83274.9",
+    "elo_clay": "83900",
+    "elo_grass": "83900",
+    "ranking": "161",
+    "recent_wins": "4"
+  },
+  "Gabriel Diallo": {
+    "name": "Gabriel Diallo",
+    "last_match_date": "20230206",
+    "elo_hard": "78392",
+    "elo_clay": "78900",
+    "elo_grass": "78900",
+    "ranking": "211",
+    "recent_wins": "4"
+  },
+  "Laurent Lokoli": {
+    "name": "Laurent Lokoli",
+    "last_match_date": "20230116",
+    "elo_hard": "81937.8",
+    "elo_clay": "82500",
+    "elo_grass": "82500",
+    "ranking": "175",
+    "recent_wins": "4"
+  },
+  "Mattia Bellucci": {
+    "name": "Mattia Bellucci",
+    "last_match_date": "20230116",
+    "elo_hard": "84204.7",
+    "elo_clay": "84800",
+    "elo_grass": "84800",
+    "ranking": "152",
+    "recent_wins": "4"
+  },
+  "Kiranpal Pannu": {
+    "name": "Kiranpal Pannu",
+    "last_match_date": "20230109",
+    "elo_hard": "41894.9",
+    "elo_clay": "42500",
+    "elo_grass": "42500",
+    "ranking": "575",
+    "recent_wins": "4"
+  },
+  "Manas Dhamne": {
+    "name": "Manas Dhamne",
+    "last_match_date": "20230102",
+    "elo_hard": "99252.3",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Sumit Nagal": {
+    "name": "Sumit Nagal",
+    "last_match_date": "20230203",
+    "elo_hard": "48751",
+    "elo_clay": "49700",
+    "elo_grass": "49700",
+    "ranking": "506",
+    "recent_wins": "4"
+  },
+  "Viktor Durasovic": {
+    "name": "Viktor Durasovic",
+    "last_match_date": "20230203",
+    "elo_hard": "63203.8",
+    "elo_clay": "65700",
+    "elo_grass": "65700",
+    "ranking": "362",
+    "recent_wins": "1"
+  },
+  "Dalibor Svrcina": {
+    "name": "Dalibor Svrcina",
+    "last_match_date": "20230116",
+    "elo_hard": "76856.1",
+    "elo_clay": "77800",
+    "elo_grass": "77800",
+    "ranking": "216",
+    "recent_wins": "4"
+  },
+  "Timofey Skatov": {
+    "name": "Timofey Skatov",
+    "last_match_date": "20230204",
+    "elo_hard": "85281",
+    "elo_clay": "86063.8",
+    "elo_grass": "85800",
+    "ranking": "129",
+    "recent_wins": "6"
+  },
+  "Daniel Michalski": {
+    "name": "Daniel Michalski",
+    "last_match_date": "20230102",
+    "elo_hard": "72166.8",
+    "elo_clay": "74000",
+    "elo_grass": "74000",
+    "ranking": "260",
+    "recent_wins": "2"
+  },
+  "Michael Agwi": {
+    "name": "Michael Agwi",
+    "last_match_date": "20230203",
+    "elo_hard": "-21800",
+    "elo_clay": "-22425.1",
+    "elo_grass": "-21800",
+    "ranking": "1218",
+    "recent_wins": "4"
+  },
+  "Kacper Zuk": {
+    "name": "Kacper Zuk",
+    "last_match_date": "20230102",
+    "elo_hard": "74888.1",
+    "elo_clay": "75500",
+    "elo_grass": "75500",
+    "ranking": "245",
+    "recent_wins": "4"
+  },
+  "Matwe Middelkoop": {
+    "name": "Matwe Middelkoop",
+    "last_match_date": "20230204",
+    "elo_hard": "100125",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "6"
+  },
   "Arthur Fils": {
     "name": "Arthur Fils",
-    "last_match_date": "20221031",
-    "elo_hard": "68677.4",
+    "last_match_date": "20230206",
+    "elo_hard": "68894.1",
     "elo_clay": "69200",
     "elo_grass": "69200",
-    "ranking": "308",
-    "recent_wins": "4"
+    "ranking": "163",
+    "recent_wins": "6"
   },
   "Michael Geerts": {
     "name": "Michael Geerts",
@@ -35,6 +548,15 @@
     "ranking": "0",
     "recent_wins": "4"
   },
+  "Gonzalo Bueno": {
+    "name": "Gonzalo Bueno",
+    "last_match_date": "20230203",
+    "elo_hard": "45600",
+    "elo_clay": "45725.1",
+    "elo_grass": "45600",
+    "ranking": "544",
+    "recent_wins": "6"
+  },
   "Sho Shimabukuro": {
     "name": "Sho Shimabukuro",
     "last_match_date": "20221003",
@@ -44,23 +566,32 @@
     "ranking": "353",
     "recent_wins": "4"
   },
+  "Cem Ilkel": {
+    "name": "Cem Ilkel",
+    "last_match_date": "20230203",
+    "elo_hard": "61330.9",
+    "elo_clay": "61800",
+    "elo_grass": "61800",
+    "ranking": "304",
+    "recent_wins": "5"
+  },
   "Yshai Oliel": {
     "name": "Yshai Oliel",
-    "last_match_date": "20220926",
-    "elo_hard": "60935.8",
+    "last_match_date": "20230204",
+    "elo_hard": "61090.8",
     "elo_clay": "61700",
     "elo_grass": "61700",
-    "ranking": "383",
-    "recent_wins": "4"
+    "ranking": "476",
+    "recent_wins": "5"
   },
   "Edan Leshem": {
     "name": "Edan Leshem",
-    "last_match_date": "20220926",
-    "elo_hard": "55052.8",
+    "last_match_date": "20230204",
+    "elo_hard": "54202.8",
     "elo_clay": "55400",
     "elo_grass": "55400",
-    "ranking": "446",
-    "recent_wins": "5"
+    "ranking": "359",
+    "recent_wins": "4"
   },
   "Francesco Maestrelli": {
     "name": "Francesco Maestrelli",
@@ -79,6 +610,24 @@
     "elo_grass": "68600",
     "ranking": "314",
     "recent_wins": "4"
+  },
+  "Stefanos Sakellaridis": {
+    "name": "Stefanos Sakellaridis",
+    "last_match_date": "20230102",
+    "elo_hard": "18740.2",
+    "elo_clay": "19700",
+    "elo_grass": "19700",
+    "ranking": "803",
+    "recent_wins": "4"
+  },
+  "Aleksandar Vukic": {
+    "name": "Aleksandar Vukic",
+    "last_match_date": "20230116",
+    "elo_hard": "84798.2",
+    "elo_clay": "85600",
+    "elo_grass": "85600",
+    "ranking": "146",
+    "recent_wins": "5"
   },
   "Yunseong Chung": {
     "name": "Yunseong Chung",
@@ -106,6 +655,15 @@
     "elo_grass": "73900",
     "ranking": "253",
     "recent_wins": "4"
+  },
+  "Zura Tkemaladze": {
+    "name": "Zura Tkemaladze",
+    "last_match_date": "20230202",
+    "elo_hard": "32175",
+    "elo_clay": "31900",
+    "elo_grass": "31900",
+    "ranking": "681",
+    "recent_wins": "6"
   },
   "Aleksandar Kovacevic": {
     "name": "Aleksandar Kovacevic",
@@ -145,12 +703,30 @@
   },
   "Brandon Holt": {
     "name": "Brandon Holt",
-    "last_match_date": "20220919",
-    "elo_hard": "68902.2",
+    "last_match_date": "20230206",
+    "elo_hard": "67979.3",
     "elo_clay": "69700",
     "elo_grass": "69700",
-    "ranking": "215",
-    "recent_wins": "4"
+    "ranking": "195",
+    "recent_wins": "3"
+  },
+  "Tomas Barrios Vera": {
+    "name": "Tomas Barrios Vera",
+    "last_match_date": "20230206",
+    "elo_hard": "78800",
+    "elo_clay": "78654.1",
+    "elo_grass": "78800",
+    "ranking": "212",
+    "recent_wins": "6"
+  },
+  "Yibing Wu": {
+    "name": "Yibing Wu",
+    "last_match_date": "20230206",
+    "elo_hard": "83172.3",
+    "elo_clay": "82600",
+    "elo_grass": "82600",
+    "ranking": "97",
+    "recent_wins": "10"
   },
   "Shintaro Mochizuki": {
     "name": "Shintaro Mochizuki",
@@ -160,6 +736,15 @@
     "elo_grass": "63200",
     "ranking": "401",
     "recent_wins": "2"
+  },
+  "Osgar Ohoisin": {
+    "name": "Osgar Ohoisin",
+    "last_match_date": "20230203",
+    "elo_hard": "22900",
+    "elo_clay": "22274.9",
+    "elo_grass": "22900",
+    "ranking": "771",
+    "recent_wins": "4"
   },
   "Alexis Galarneau": {
     "name": "Alexis Galarneau",
@@ -181,21 +766,48 @@
   },
   "Kyle Edmund": {
     "name": "Kyle Edmund",
-    "last_match_date": "20220829",
-    "elo_hard": "34866.1",
+    "last_match_date": "20230116",
+    "elo_hard": "32976.9",
     "elo_clay": "36100",
     "elo_grass": "36100",
-    "ranking": "601",
+    "ranking": "581",
+    "recent_wins": "1"
+  },
+  "Clement Chidekh": {
+    "name": "Clement Chidekh",
+    "last_match_date": "20230206",
+    "elo_hard": "56029.8",
+    "elo_clay": "56600",
+    "elo_grass": "56600",
+    "ranking": "434",
     "recent_wins": "4"
   },
   "Nicolas Barrientos": {
     "name": "Nicolas Barrientos",
-    "last_match_date": "20220801",
+    "last_match_date": "20230203",
     "elo_hard": "63872",
-    "elo_clay": "64600",
+    "elo_clay": "63974.9",
     "elo_grass": "64600",
-    "ranking": "354",
+    "ranking": "510",
+    "recent_wins": "3"
+  },
+  "Marius Copil": {
+    "name": "Marius Copil",
+    "last_match_date": "20220926",
+    "elo_hard": "64429.1",
+    "elo_clay": "65000",
+    "elo_grass": "65000",
+    "ranking": "350",
     "recent_wins": "4"
+  },
+  "Rinky Hijikata": {
+    "name": "Rinky Hijikata",
+    "last_match_date": "20230116",
+    "elo_hard": "75389.4",
+    "elo_clay": "77600",
+    "elo_grass": "77600",
+    "ranking": "169",
+    "recent_wins": "2"
   },
   "Alexander Shevchenko": {
     "name": "Alexander Shevchenko",
@@ -233,6 +845,24 @@
     "ranking": "321",
     "recent_wins": "4"
   },
+  "Ramkumar Ramanathan": {
+    "name": "Ramkumar Ramanathan",
+    "last_match_date": "20230102",
+    "elo_hard": "75153.8",
+    "elo_clay": "77100",
+    "elo_grass": "77100",
+    "ranking": "435",
+    "recent_wins": "2"
+  },
+  "Raphael Calzi": {
+    "name": "Raphael Calzi",
+    "last_match_date": "20230204",
+    "elo_hard": "100125",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "6"
+  },
   "Alastair Gray": {
     "name": "Alastair Gray",
     "last_match_date": "20220627",
@@ -262,20 +892,29 @@
   },
   "Lukas Klein": {
     "name": "Lukas Klein",
-    "last_match_date": "20220627",
-    "elo_hard": "75700",
+    "last_match_date": "20230204",
+    "elo_hard": "75069.9",
     "elo_clay": "75700",
     "elo_grass": "75117.3",
-    "ranking": "243",
-    "recent_wins": "4"
+    "ranking": "143",
+    "recent_wins": "3"
   },
   "Andrea Vavassori": {
     "name": "Andrea Vavassori",
-    "last_match_date": "20220627",
+    "last_match_date": "20230206",
     "elo_hard": "74400",
-    "elo_clay": "74400",
+    "elo_clay": "73643.3",
     "elo_grass": "73776.3",
-    "ranking": "256",
+    "ranking": "221",
+    "recent_wins": "3"
+  },
+  "Sasi Kumar Mukund": {
+    "name": "Sasi Kumar Mukund",
+    "last_match_date": "20230102",
+    "elo_hard": "65406.8",
+    "elo_clay": "66000",
+    "elo_grass": "66000",
+    "ranking": "340",
     "recent_wins": "4"
   },
   "Gonzalo Villanueva": {
@@ -296,6 +935,15 @@
     "ranking": "226",
     "recent_wins": "3"
   },
+  "Jay Clarke": {
+    "name": "Jay Clarke",
+    "last_match_date": "20220627",
+    "elo_hard": "84100",
+    "elo_clay": "84100",
+    "elo_grass": "82753.6",
+    "ranking": "156",
+    "recent_wins": "3"
+  },
   "Paul Jubb": {
     "name": "Paul Jubb",
     "last_match_date": "20220627",
@@ -314,6 +962,15 @@
     "ranking": "140",
     "recent_wins": "6"
   },
+  "Oleksii Krutykh": {
+    "name": "Oleksii Krutykh",
+    "last_match_date": "20230116",
+    "elo_hard": "80616.8",
+    "elo_clay": "81200",
+    "elo_grass": "81200",
+    "ranking": "188",
+    "recent_wins": "4"
+  },
   "Dominic Stricker": {
     "name": "Dominic Stricker",
     "last_match_date": "20221107",
@@ -322,6 +979,15 @@
     "elo_grass": "79617",
     "ranking": "111",
     "recent_wins": "7"
+  },
+  "Conner Huertas Del Pino": {
+    "name": "Conner Huertas Del Pino",
+    "last_match_date": "20230203",
+    "elo_hard": "41400",
+    "elo_clay": "41525.1",
+    "elo_grass": "41400",
+    "ranking": "586",
+    "recent_wins": "6"
   },
   "Matthew Ebden": {
     "name": "Matthew Ebden",
@@ -334,12 +1000,21 @@
   },
   "Robin Haase": {
     "name": "Robin Haase",
-    "last_match_date": "20220606",
-    "elo_hard": "74400",
+    "last_match_date": "20230109",
+    "elo_hard": "74101.8",
     "elo_clay": "74400",
     "elo_grass": "73783.1",
-    "ranking": "256",
+    "ranking": "257",
     "recent_wins": "4"
+  },
+  "Filip Cristian Jianu": {
+    "name": "Filip Cristian Jianu",
+    "last_match_date": "20230203",
+    "elo_hard": "73630.2",
+    "elo_clay": "73300",
+    "elo_grass": "73300",
+    "ranking": "267",
+    "recent_wins": "7"
   },
   "Pedro Sousa": {
     "name": "Pedro Sousa",
@@ -352,93 +1027,57 @@
   },
   "Tim Van Rijthoven": {
     "name": "Tim Van Rijthoven",
-    "last_match_date": "20221017",
-    "elo_hard": "77319.3",
+    "last_match_date": "20230204",
+    "elo_hard": "77229.8",
     "elo_clay": "79500",
     "elo_grass": "80362.3",
-    "ranking": "113",
-    "recent_wins": "5"
+    "ranking": "107",
+    "recent_wins": "6"
   },
   "Attila Balazs": {
     "name": "Attila Balazs",
     "last_match_date": "20220627",
     "elo_hard": "73800",
-    "elo_clay": "73120.2",
+    "elo_clay": "73124.9",
     "elo_grass": "73121.5",
     "ranking": "331",
     "recent_wins": "3"
   },
   "Geoffrey Blancaneaux": {
     "name": "Geoffrey Blancaneaux",
-    "last_match_date": "20221017",
-    "elo_hard": "79704.8",
-    "elo_clay": "80284.2",
+    "last_match_date": "20230206",
+    "elo_hard": "79132",
+    "elo_clay": "80274.9",
     "elo_grass": "80900",
-    "ranking": "147",
-    "recent_wins": "2"
+    "ranking": "151",
+    "recent_wins": "1"
+  },
+  "Bjorn Fratangelo": {
+    "name": "Bjorn Fratangelo",
+    "last_match_date": "20220523",
+    "elo_hard": "81400",
+    "elo_clay": "80774.9",
+    "elo_grass": "81400",
+    "ranking": "186",
+    "recent_wins": "4"
   },
   "Zdenek Kolar": {
     "name": "Zdenek Kolar",
     "last_match_date": "20220627",
     "elo_hard": "86600",
-    "elo_clay": "86109.2",
+    "elo_clay": "86088.8",
     "elo_grass": "85971.1",
     "ranking": "119",
     "recent_wins": "4"
   },
-  "Alessandro Giannessi": {
-    "name": "Alessandro Giannessi",
-    "last_match_date": "20220523",
-    "elo_hard": "82700",
-    "elo_clay": "81921",
-    "elo_grass": "82700",
-    "ranking": "173",
-    "recent_wins": "4"
-  },
-  "Andres Martin": {
-    "name": "Andres Martin",
-    "last_match_date": "20220725",
-    "elo_hard": "26086.8",
-    "elo_clay": "26400",
-    "elo_grass": "26400",
-    "ranking": "736",
-    "recent_wins": "5"
-  },
-  "Borna Gojo": {
-    "name": "Borna Gojo",
-    "last_match_date": "20221017",
-    "elo_hard": "76819.6",
-    "elo_clay": "77384.3",
-    "elo_grass": "77700",
-    "ranking": "184",
-    "recent_wins": "4"
-  },
-  "Camilo Ugo Carabelli": {
-    "name": "Camilo Ugo Carabelli",
-    "last_match_date": "20220523",
-    "elo_hard": "84500",
-    "elo_clay": "84116.6",
-    "elo_grass": "84500",
-    "ranking": "155",
-    "recent_wins": "5"
-  },
-  "Yasutaka Uchiyama": {
-    "name": "Yasutaka Uchiyama",
-    "last_match_date": "20221003",
-    "elo_hard": "67997.6",
-    "elo_clay": "68600",
-    "elo_grass": "68600",
-    "ranking": "314",
-    "recent_wins": "4"
-  },
-  "Andrey Kuznetsov": {
-    "name": "Andrey Kuznetsov",
-    "last_match_date": "20220523",
-    "elo_hard": "77200",
-    "elo_clay": "76583.3",
-    "elo_grass": "77200",
-    "ranking": "228",
-    "recent_wins": "4"
+  "Quentin Halys": {
+    "name": "Quentin Halys",
+    "last_match_date": "20230206",
+    "elo_hard": "86065.3",
+    "elo_clay": "90963.6",
+    "elo_grass": "90212.5",
+    "ranking": "70",
+    "recent_wins": "2"
   },
   "Leandro Riedi": {
     "name": "Leandro Riedi",
@@ -449,40 +1088,40 @@
     "ranking": "301",
     "recent_wins": "4"
   },
-  "Luca Nardi": {
-    "name": "Luca Nardi",
-    "last_match_date": "20221017",
-    "elo_hard": "78939.2",
-    "elo_clay": "78673.8",
-    "elo_grass": "79900",
-    "ranking": "130",
-    "recent_wins": "2"
-  },
-  "Matteo Arnaldi": {
-    "name": "Matteo Arnaldi",
-    "last_match_date": "20221107",
-    "elo_hard": "70655.8",
-    "elo_clay": "71889.1",
-    "elo_grass": "72500",
-    "ranking": "134",
-    "recent_wins": "1"
-  },
-  "Marc Andrea Huesler": {
-    "name": "Marc Andrea Huesler",
-    "last_match_date": "20221031",
-    "elo_hard": "86587.9",
-    "elo_clay": "87617.2",
-    "elo_grass": "87255",
-    "ranking": "61",
+  "Oleksandr Ovcharenko": {
+    "name": "Oleksandr Ovcharenko",
+    "last_match_date": "20230203",
+    "elo_hard": "61467.4",
+    "elo_clay": "62100",
+    "elo_grass": "62100",
+    "ranking": "379",
     "recent_wins": "4"
   },
-  "Francesco Passaro": {
-    "name": "Francesco Passaro",
-    "last_match_date": "20221107",
-    "elo_hard": "61129.9",
-    "elo_clay": "62599.6",
-    "elo_grass": "63200",
-    "ranking": "119",
+  "Luca Nardi": {
+    "name": "Luca Nardi",
+    "last_match_date": "20230206",
+    "elo_hard": "78341.8",
+    "elo_clay": "78673.8",
+    "elo_grass": "79900",
+    "ranking": "164",
+    "recent_wins": "1"
+  },
+  "Kevin Anderson": {
+    "name": "Kevin Anderson",
+    "last_match_date": "20220321",
+    "elo_hard": "88158.8",
+    "elo_clay": "89900",
+    "elo_grass": "89900",
+    "ranking": "91",
+    "recent_wins": "3"
+  },
+  "Flavio Cobolli": {
+    "name": "Flavio Cobolli",
+    "last_match_date": "20230102",
+    "elo_hard": "83399.2",
+    "elo_clay": "84411.2",
+    "elo_grass": "85000",
+    "ranking": "171",
     "recent_wins": "2"
   },
   "Carlos Gimeno Valero": {
@@ -494,14 +1133,14 @@
     "ranking": "369",
     "recent_wins": "4"
   },
-  "Max Hans Rehberg": {
-    "name": "Max Hans Rehberg",
-    "last_match_date": "20220718",
-    "elo_hard": "-6700",
-    "elo_clay": "-7902.61",
-    "elo_grass": "-6700",
-    "ranking": "830",
-    "recent_wins": "3"
+  "Zsombor Piros": {
+    "name": "Zsombor Piros",
+    "last_match_date": "20230203",
+    "elo_hard": "82082.5",
+    "elo_clay": "81800",
+    "elo_grass": "81800",
+    "ranking": "182",
+    "recent_wins": "6"
   },
   "Marko Topo": {
     "name": "Marko Topo",
@@ -510,51 +1149,6 @@
     "elo_clay": "23163.7",
     "elo_grass": "24400",
     "ranking": "585",
-    "recent_wins": "3"
-  },
-  "Zhizhen Zhang": {
-    "name": "Zhizhen Zhang",
-    "last_match_date": "20221017",
-    "elo_hard": "84557.2",
-    "elo_clay": "86300",
-    "elo_grass": "86300",
-    "ranking": "109",
-    "recent_wins": "4"
-  },
-  "Nuno Borges": {
-    "name": "Nuno Borges",
-    "last_match_date": "20221017",
-    "elo_hard": "85456.4",
-    "elo_clay": "85646.4",
-    "elo_grass": "86278.5",
-    "ranking": "94",
-    "recent_wins": "2"
-  },
-  "Dominic Thiem": {
-    "name": "Dominic Thiem",
-    "last_match_date": "20221024",
-    "elo_hard": "93037",
-    "elo_clay": "90729.5",
-    "elo_grass": "94600",
-    "ranking": "113",
-    "recent_wins": "8"
-  },
-  "Franco Agamenone": {
-    "name": "Franco Agamenone",
-    "last_match_date": "20220725",
-    "elo_hard": "84400",
-    "elo_clay": "83743",
-    "elo_grass": "84400",
-    "ranking": "136",
-    "recent_wins": "6"
-  },
-  "Hamad Medjedovic": {
-    "name": "Hamad Medjedovic",
-    "last_match_date": "20220926",
-    "elo_hard": "52115.2",
-    "elo_clay": "52113.7",
-    "elo_grass": "52700",
-    "ranking": "255",
     "recent_wins": "3"
   },
   "Tommy Robredo": {
@@ -566,23 +1160,50 @@
     "ranking": "362",
     "recent_wins": "4"
   },
-  "Manuel Guinard": {
-    "name": "Manuel Guinard",
-    "last_match_date": "20221017",
-    "elo_hard": "83745.1",
-    "elo_clay": "83236.4",
-    "elo_grass": "84800",
-    "ranking": "148",
-    "recent_wins": "3"
+  "John Isner": {
+    "name": "John Isner",
+    "last_match_date": "20230206",
+    "elo_hard": "92476.4",
+    "elo_clay": "95773.5",
+    "elo_grass": "96586.9",
+    "ranking": "39",
+    "recent_wins": "10"
   },
-  "Stan Wawrinka": {
-    "name": "Stan Wawrinka",
-    "last_match_date": "20221031",
-    "elo_hard": "74342.2",
-    "elo_clay": "74458.2",
-    "elo_grass": "75409.7",
-    "ranking": "153",
-    "recent_wins": "1"
+  "Hugo Grenier": {
+    "name": "Hugo Grenier",
+    "last_match_date": "20221017",
+    "elo_hard": "82922.3",
+    "elo_clay": "83872.4",
+    "elo_grass": "84042.8",
+    "ranking": "116",
+    "recent_wins": "2"
+  },
+  "Ilya Ivashka": {
+    "name": "Ilya Ivashka",
+    "last_match_date": "20230206",
+    "elo_hard": "89995.2",
+    "elo_clay": "91653.5",
+    "elo_grass": "93958.9",
+    "ranking": "74",
+    "recent_wins": "5"
+  },
+  "Gian Marco Moroni": {
+    "name": "Gian Marco Moroni",
+    "last_match_date": "20220418",
+    "elo_hard": "81900",
+    "elo_clay": "81308.6",
+    "elo_grass": "81900",
+    "ranking": "181",
+    "recent_wins": "4"
+  },
+  "Andreja Petrovic": {
+    "name": "Andreja Petrovic",
+    "last_match_date": "20230203",
+    "elo_hard": "-27125.1",
+    "elo_clay": "-26500",
+    "elo_grass": "-26500",
+    "ranking": "1265",
+    "recent_wins": "4"
   },
   "Alexandar Lazarov": {
     "name": "Alexandar Lazarov",
@@ -595,642 +1216,39 @@
   },
   "Antoine Bellier": {
     "name": "Antoine Bellier",
-    "last_match_date": "20221017",
-    "elo_hard": "69367.3",
+    "last_match_date": "20230206",
+    "elo_hard": "68758.5",
     "elo_clay": "69700",
     "elo_grass": "69903.9",
-    "ranking": "192",
-    "recent_wins": "7"
+    "ranking": "190",
+    "recent_wins": "6"
   },
   "Mirza Basic": {
     "name": "Mirza Basic",
-    "last_match_date": "20220926",
-    "elo_hard": "77906.1",
+    "last_match_date": "20230203",
+    "elo_hard": "77281",
     "elo_clay": "78157.1",
     "elo_grass": "78500",
-    "ranking": "292",
-    "recent_wins": "4"
-  },
-  "Steven Diez": {
-    "name": "Steven Diez",
-    "last_match_date": "20220404",
-    "elo_hard": "70800",
-    "elo_clay": "70194.8",
-    "elo_grass": "70800",
-    "ranking": "292",
-    "recent_wins": "4"
-  },
-  "Borna Coric": {
-    "name": "Borna Coric",
-    "last_match_date": "20221031",
-    "elo_hard": "81482",
-    "elo_clay": "81774.4",
-    "elo_grass": "83300",
-    "ranking": "26",
-    "recent_wins": "9"
-  },
-  "Matheus Pucinelli De Almeida": {
-    "name": "Matheus Pucinelli De Almeida",
-    "last_match_date": "20220221",
-    "elo_hard": "73600",
-    "elo_clay": "73170.1",
-    "elo_grass": "73600",
-    "ranking": "264",
-    "recent_wins": "5"
-  },
-  "Juan Alejandro Hernandez Serrano": {
-    "name": "Juan Alejandro Hernandez Serrano",
-    "last_match_date": "20220801",
-    "elo_hard": "42357.6",
-    "elo_clay": "43400",
-    "elo_grass": "43400",
-    "ranking": "521",
-    "recent_wins": "4"
-  },
-  "Sebastian Korda": {
-    "name": "Sebastian Korda",
-    "last_match_date": "20221031",
-    "elo_hard": "91036",
-    "elo_clay": "93059.7",
-    "elo_grass": "94535.1",
-    "ranking": "33",
-    "recent_wins": "9"
-  },
-  "Thomas Fabbiano": {
-    "name": "Thomas Fabbiano",
-    "last_match_date": "20220214",
-    "elo_hard": "80200.9",
-    "elo_clay": "80800",
-    "elo_grass": "80800",
-    "ranking": "192",
-    "recent_wins": "4"
-  },
-  "Daniel Dutra Da Silva": {
-    "name": "Daniel Dutra Da Silva",
-    "last_match_date": "20220725",
-    "elo_hard": "78500",
-    "elo_clay": "77866.5",
-    "elo_grass": "78500",
-    "ranking": "215",
-    "recent_wins": "4"
-  },
-  "Denis Istomin": {
-    "name": "Denis Istomin",
-    "last_match_date": "20220214",
-    "elo_hard": "72893.5",
-    "elo_clay": "73300",
-    "elo_grass": "73300",
-    "ranking": "267",
-    "recent_wins": "5"
-  },
-  "Mitchell Krueger": {
-    "name": "Mitchell Krueger",
-    "last_match_date": "20220919",
-    "elo_hard": "81549.5",
-    "elo_clay": "82820.6",
-    "elo_grass": "82977.4",
-    "ranking": "228",
-    "recent_wins": "2"
-  },
-  "Elliot Benchetrit": {
-    "name": "Elliot Benchetrit",
-    "last_match_date": "20220404",
-    "elo_hard": "56400",
-    "elo_clay": "55786",
-    "elo_grass": "56400",
-    "ranking": "436",
-    "recent_wins": "4"
-  },
-  "Vasek Pospisil": {
-    "name": "Vasek Pospisil",
-    "last_match_date": "20220926",
-    "elo_hard": "84015.8",
-    "elo_clay": "85000",
-    "elo_grass": "85000",
-    "ranking": "149",
-    "recent_wins": "6"
-  },
-  "Jenson Brooksby": {
-    "name": "Jenson Brooksby",
-    "last_match_date": "20221024",
-    "elo_hard": "89008",
-    "elo_clay": "92124.9",
-    "elo_grass": "92226.9",
-    "ranking": "50",
-    "recent_wins": "7"
-  },
-  "Pablo Cuevas": {
-    "name": "Pablo Cuevas",
-    "last_match_date": "20220523",
-    "elo_hard": "89797.1",
-    "elo_clay": "87767.3",
-    "elo_grass": "90400",
-    "ranking": "149",
-    "recent_wins": "2"
-  },
-  "John Isner": {
-    "name": "John Isner",
-    "last_match_date": "20221031",
-    "elo_hard": "91660.6",
-    "elo_clay": "96044.3",
-    "elo_grass": "96786.9",
-    "ranking": "47",
-    "recent_wins": "9"
-  },
-  "Hugo Grenier": {
-    "name": "Hugo Grenier",
-    "last_match_date": "20221017",
-    "elo_hard": "82145.3",
-    "elo_clay": "83672.4",
-    "elo_grass": "83842.8",
-    "ranking": "116",
-    "recent_wins": "1"
-  },
-  "Novak Djokovic": {
-    "name": "Novak Djokovic",
-    "last_match_date": "20221114",
-    "elo_hard": "100991",
-    "elo_clay": "99411.9",
-    "elo_grass": "100893",
-    "ranking": "8",
-    "recent_wins": "10"
-  },
-  "Dennis Novak": {
-    "name": "Dennis Novak",
-    "last_match_date": "20221024",
-    "elo_hard": "86457",
-    "elo_clay": "88300",
-    "elo_grass": "87969.3",
-    "ranking": "155",
-    "recent_wins": "2"
-  },
-  "Cem Ilkel": {
-    "name": "Cem Ilkel",
-    "last_match_date": "20220926",
-    "elo_hard": "80423.1",
-    "elo_clay": "81700",
-    "elo_grass": "81700",
-    "ranking": "382",
+    "ranking": "394",
     "recent_wins": "3"
-  },
-  "Cameron Norrie": {
-    "name": "Cameron Norrie",
-    "last_match_date": "20221031",
-    "elo_hard": "91390.3",
-    "elo_clay": "96659.1",
-    "elo_grass": "97683",
-    "ranking": "13",
-    "recent_wins": "8"
-  },
-  "Daniel Evans": {
-    "name": "Daniel Evans",
-    "last_match_date": "20221031",
-    "elo_hard": "90992.8",
-    "elo_clay": "93322.9",
-    "elo_grass": "95515.6",
-    "ranking": "27",
-    "recent_wins": "7"
-  },
-  "Federico Gaio": {
-    "name": "Federico Gaio",
-    "last_match_date": "20220131",
-    "elo_hard": "82005.1",
-    "elo_clay": "82600",
-    "elo_grass": "82600",
-    "ranking": "174",
-    "recent_wins": "4"
-  },
-  "Arjun Kadhe": {
-    "name": "Arjun Kadhe",
-    "last_match_date": "20220131",
-    "elo_hard": "21646.7",
-    "elo_clay": "22200",
-    "elo_grass": "22200",
-    "ranking": "778",
-    "recent_wins": "4"
-  },
-  "Ramkumar Ramanathan": {
-    "name": "Ramkumar Ramanathan",
-    "last_match_date": "20221003",
-    "elo_hard": "79856.5",
-    "elo_clay": "81800",
-    "elo_grass": "81800",
-    "ranking": "297",
-    "recent_wins": "2"
-  },
-  "Ilya Ivashka": {
-    "name": "Ilya Ivashka",
-    "last_match_date": "20221017",
-    "elo_hard": "90586.2",
-    "elo_clay": "91684.6",
-    "elo_grass": "93958.9",
-    "ranking": "70",
-    "recent_wins": "6"
-  },
-  "Gian Marco Moroni": {
-    "name": "Gian Marco Moroni",
-    "last_match_date": "20220418",
-    "elo_hard": "79221.6",
-    "elo_clay": "79208.6",
-    "elo_grass": "79800",
-    "ranking": "181",
-    "recent_wins": "3"
-  },
-  "Altug Celikbilek": {
-    "name": "Altug Celikbilek",
-    "last_match_date": "20221010",
-    "elo_hard": "76702.4",
-    "elo_clay": "77000",
-    "elo_grass": "77000",
-    "ranking": "230",
-    "recent_wins": "5"
-  },
-  "Marcos Giron": {
-    "name": "Marcos Giron",
-    "last_match_date": "20221024",
-    "elo_hard": "84790.8",
-    "elo_clay": "89554.9",
-    "elo_grass": "91621",
-    "ranking": "58",
-    "recent_wins": "3"
-  },
-  "Jurij Rodionov": {
-    "name": "Jurij Rodionov",
-    "last_match_date": "20221024",
-    "elo_hard": "83794.1",
-    "elo_clay": "84206.5",
-    "elo_grass": "84110.3",
-    "ranking": "130",
-    "recent_wins": "3"
-  },
-  "Quentin Halys": {
-    "name": "Quentin Halys",
-    "last_match_date": "20221031",
-    "elo_hard": "81685.6",
-    "elo_clay": "85282.7",
-    "elo_grass": "84512.5",
-    "ranking": "69",
-    "recent_wins": "0"
-  },
-  "Bernabe Zapata Miralles": {
-    "name": "Bernabe Zapata Miralles",
-    "last_match_date": "20221017",
-    "elo_hard": "83597.7",
-    "elo_clay": "83622",
-    "elo_grass": "86716.9",
-    "ranking": "75",
-    "recent_wins": "0"
   },
   "Vit Kopriva": {
     "name": "Vit Kopriva",
     "last_match_date": "20220725",
-    "elo_hard": "80294.5",
-    "elo_clay": "79767.4",
-    "elo_grass": "80700",
+    "elo_hard": "83500",
+    "elo_clay": "82567.4",
+    "elo_grass": "83500",
     "ranking": "159",
     "recent_wins": "4"
   },
-  "Prajnesh Gunneswaran": {
-    "name": "Prajnesh Gunneswaran",
-    "last_match_date": "20220131",
-    "elo_hard": "76604.7",
-    "elo_clay": "77200",
-    "elo_grass": "77200",
-    "ranking": "228",
-    "recent_wins": "4"
-  },
-  "Yuki Bhambri": {
-    "name": "Yuki Bhambri",
-    "last_match_date": "20220131",
-    "elo_hard": "13367.8",
-    "elo_clay": "13800",
-    "elo_grass": "13800",
-    "ranking": "862",
-    "recent_wins": "5"
-  },
-  "Jesper De Jong": {
-    "name": "Jesper De Jong",
-    "last_match_date": "20221017",
-    "elo_hard": "82302.9",
-    "elo_clay": "82900",
-    "elo_grass": "82298.1",
-    "ranking": "225",
-    "recent_wins": "3"
-  },
-  "Gilles Simon": {
-    "name": "Gilles Simon",
-    "last_match_date": "20221031",
-    "elo_hard": "85080.8",
-    "elo_clay": "86328",
-    "elo_grass": "86701.4",
-    "ranking": "188",
-    "recent_wins": "5"
-  },
-  "Jo-Wilfried Tsonga": {
-    "name": "Jo-Wilfried Tsonga",
-    "last_match_date": "20220523",
-    "elo_hard": "72374.9",
-    "elo_clay": "72245",
-    "elo_grass": "74100",
-    "ranking": "297",
-    "recent_wins": "0"
-  },
-  "Nicolas Jarry": {
-    "name": "Nicolas Jarry",
-    "last_match_date": "20221017",
-    "elo_hard": "83465.8",
-    "elo_clay": "82579.8",
-    "elo_grass": "85100",
-    "ranking": "118",
-    "recent_wins": "0"
-  },
-  "Juan Pablo Varillas": {
-    "name": "Juan Pablo Varillas",
-    "last_match_date": "20220725",
-    "elo_hard": "87100",
-    "elo_clay": "85444.8",
-    "elo_grass": "87100",
-    "ranking": "109",
-    "recent_wins": "5"
-  },
-  "Andrej Martin": {
-    "name": "Andrej Martin",
-    "last_match_date": "20220131",
-    "elo_hard": "88500",
-    "elo_clay": "87894",
-    "elo_grass": "88500",
-    "ranking": "115",
-    "recent_wins": "4"
-  },
-  "Fernando Verdasco": {
-    "name": "Fernando Verdasco",
-    "last_match_date": "20220926",
-    "elo_hard": "76552.8",
-    "elo_clay": "78650.7",
-    "elo_grass": "79382.7",
-    "ranking": "116",
-    "recent_wins": "1"
-  },
-  "Holger Rune": {
-    "name": "Holger Rune",
-    "last_match_date": "20221031",
-    "elo_hard": "86192.8",
-    "elo_clay": "85507.4",
-    "elo_grass": "87586.9",
-    "ranking": "18",
-    "recent_wins": "10"
-  },
-  "Juan Pablo Ficovich": {
-    "name": "Juan Pablo Ficovich",
-    "last_match_date": "20220131",
-    "elo_hard": "77000",
-    "elo_clay": "76669.5",
-    "elo_grass": "77000",
-    "ranking": "230",
-    "recent_wins": "5"
-  },
-  "Dimitar Kuzmanov": {
-    "name": "Dimitar Kuzmanov",
-    "last_match_date": "20220926",
-    "elo_hard": "83625.1",
-    "elo_clay": "84200",
-    "elo_grass": "84200",
-    "ranking": "158",
-    "recent_wins": "4"
-  },
-  "Juan Ignacio Londero": {
-    "name": "Juan Ignacio Londero",
-    "last_match_date": "20220523",
-    "elo_hard": "86100",
-    "elo_clay": "83911.4",
-    "elo_grass": "86100",
-    "ranking": "142",
-    "recent_wins": "4"
-  },
-  "Alejandro Davidovich Fokina": {
-    "name": "Alejandro Davidovich Fokina",
-    "last_match_date": "20221031",
-    "elo_hard": "86721.2",
-    "elo_clay": "91326.5",
-    "elo_grass": "94205.1",
-    "ranking": "32",
-    "recent_wins": "2"
-  },
-  "Nick Kyrgios": {
-    "name": "Nick Kyrgios",
-    "last_match_date": "20221003",
-    "elo_hard": "89819.2",
-    "elo_clay": "88595.8",
-    "elo_grass": "88677.6",
-    "ranking": "20",
-    "recent_wins": "10"
-  },
-  "Ernesto Escobedo": {
-    "name": "Ernesto Escobedo",
-    "last_match_date": "20220801",
-    "elo_hard": "84674.9",
-    "elo_clay": "85900",
-    "elo_grass": "85900",
-    "ranking": "166",
-    "recent_wins": "3"
-  },
-  "Richard Gasquet": {
-    "name": "Richard Gasquet",
-    "last_match_date": "20221031",
-    "elo_hard": "87969.5",
-    "elo_clay": "89102.6",
-    "elo_grass": "91699.6",
-    "ranking": "76",
-    "recent_wins": "9"
-  },
-  "Pedro Cachin": {
-    "name": "Pedro Cachin",
-    "last_match_date": "20221024",
-    "elo_hard": "82805.4",
-    "elo_clay": "83647.2",
-    "elo_grass": "84700",
-    "ranking": "55",
-    "recent_wins": "4"
-  },
-  "Karen Khachanov": {
-    "name": "Karen Khachanov",
-    "last_match_date": "20221031",
-    "elo_hard": "89616.3",
-    "elo_clay": "93905.2",
-    "elo_grass": "96199.7",
-    "ranking": "19",
-    "recent_wins": "10"
-  },
-  "Tomas Machac": {
-    "name": "Tomas Machac",
-    "last_match_date": "20220829",
-    "elo_hard": "84999.8",
-    "elo_clay": "86800",
-    "elo_grass": "86800",
-    "ranking": "126",
-    "recent_wins": "4"
-  },
-  "Luca Van Assche": {
-    "name": "Luca Van Assche",
-    "last_match_date": "20221017",
-    "elo_hard": "75383.6",
-    "elo_clay": "75900",
-    "elo_grass": "75900",
-    "ranking": "241",
-    "recent_wins": "4"
-  },
-  "Juncheng Shang": {
-    "name": "Juncheng Shang",
-    "last_match_date": "20220321",
-    "elo_hard": "32576.5",
-    "elo_clay": "33102.2",
-    "elo_grass": "33700",
-    "ranking": "441",
-    "recent_wins": "2"
-  },
-  "Emilio Nava": {
-    "name": "Emilio Nava",
-    "last_match_date": "20220919",
-    "elo_hard": "66596.7",
-    "elo_clay": "68800",
-    "elo_grass": "68800",
-    "ranking": "173",
-    "recent_wins": "2"
-  },
-  "Tommy Paul": {
-    "name": "Tommy Paul",
-    "last_match_date": "20221031",
-    "elo_hard": "89457.1",
-    "elo_clay": "91856.4",
-    "elo_grass": "94276.5",
-    "ranking": "31",
-    "recent_wins": "10"
-  },
-  "J J Wolf": {
-    "name": "J J Wolf",
-    "last_match_date": "20221024",
-    "elo_hard": "74640.8",
-    "elo_clay": "78603.1",
-    "elo_grass": "79100",
-    "ranking": "56",
-    "recent_wins": "7"
-  },
-  "Albert Ramos": {
-    "name": "Albert Ramos",
-    "last_match_date": "20221031",
-    "elo_hard": "89169.9",
-    "elo_clay": "88503.2",
-    "elo_grass": "94346.7",
-    "ranking": "39",
-    "recent_wins": "1"
-  },
-  "Emilio Gomez": {
-    "name": "Emilio Gomez",
-    "last_match_date": "20220926",
-    "elo_hard": "82308.5",
-    "elo_clay": "84700",
-    "elo_grass": "84700",
-    "ranking": "102",
-    "recent_wins": "1"
-  },
-  "Norbert Gombos": {
-    "name": "Norbert Gombos",
-    "last_match_date": "20220829",
-    "elo_hard": "86605.3",
-    "elo_clay": "86464.4",
-    "elo_grass": "88300",
-    "ranking": "114",
-    "recent_wins": "1"
-  },
-  "Andrey Rublev": {
-    "name": "Andrey Rublev",
-    "last_match_date": "20221114",
-    "elo_hard": "95638.4",
-    "elo_clay": "96863.8",
-    "elo_grass": "98704.1",
-    "ranking": "7",
-    "recent_wins": "9"
-  },
-  "Constant Lestienne": {
-    "name": "Constant Lestienne",
-    "last_match_date": "20221017",
-    "elo_hard": "90989.7",
-    "elo_clay": "92400",
-    "elo_grass": "92400",
-    "ranking": "69",
-    "recent_wins": "7"
-  },
-  "Thiago Seyboth Wild": {
-    "name": "Thiago Seyboth Wild",
-    "last_match_date": "20220221",
-    "elo_hard": "86500",
-    "elo_clay": "85912.6",
-    "elo_grass": "86500",
-    "ranking": "135",
-    "recent_wins": "5"
-  },
-  "Jiri Lehecka": {
-    "name": "Jiri Lehecka",
-    "last_match_date": "20221107",
-    "elo_hard": "81404.6",
-    "elo_clay": "82364",
-    "elo_grass": "84575.4",
-    "ranking": "74",
-    "recent_wins": "2"
-  },
-  "Tennys Sandgren": {
-    "name": "Tennys Sandgren",
-    "last_match_date": "20220307",
-    "elo_hard": "81865.6",
-    "elo_clay": "83700",
-    "elo_grass": "83700",
-    "ranking": "153",
-    "recent_wins": "2"
-  },
-  "Enzo Couacaud": {
-    "name": "Enzo Couacaud",
-    "last_match_date": "20220829",
-    "elo_hard": "78845.2",
-    "elo_clay": "79400",
-    "elo_grass": "78812",
-    "ranking": "193",
-    "recent_wins": "3"
-  },
-  "Liam Broady": {
-    "name": "Liam Broady",
-    "last_match_date": "20220926",
-    "elo_hard": "84773.6",
-    "elo_clay": "87200",
-    "elo_grass": "85783.4",
-    "ranking": "174",
-    "recent_wins": "2"
-  },
-  "Joao Sousa": {
-    "name": "Joao Sousa",
-    "last_match_date": "20221017",
-    "elo_hard": "80986",
-    "elo_clay": "82269.3",
-    "elo_grass": "83973",
-    "ranking": "67",
-    "recent_wins": "0"
-  },
-  "Yibing Wu": {
-    "name": "Yibing Wu",
-    "last_match_date": "20220829",
-    "elo_hard": "82578.7",
-    "elo_clay": "82600",
-    "elo_grass": "82600",
-    "ranking": "174",
+  "Johannes Seeman": {
+    "name": "Johannes Seeman",
+    "last_match_date": "20230204",
+    "elo_hard": "100350",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
     "recent_wins": "6"
-  },
-  "Tomas Barrios Vera": {
-    "name": "Tomas Barrios Vera",
-    "last_match_date": "20220117",
-    "elo_hard": "84680.2",
-    "elo_clay": "85300",
-    "elo_grass": "85300",
-    "ranking": "147",
-    "recent_wins": "4"
   },
   "Tung Lin Wu": {
     "name": "Tung Lin Wu",
@@ -1250,22 +1268,22 @@
     "ranking": "150",
     "recent_wins": "7"
   },
-  "Christian Harrison": {
-    "name": "Christian Harrison",
-    "last_match_date": "20220627",
-    "elo_hard": "68800",
-    "elo_clay": "68182.5",
-    "elo_grass": "69084.5",
-    "ranking": "251",
-    "recent_wins": "5"
+  "Chun Hsin Tseng": {
+    "name": "Chun Hsin Tseng",
+    "last_match_date": "20230206",
+    "elo_hard": "82182.6",
+    "elo_clay": "88471.9",
+    "elo_grass": "88332",
+    "ranking": "108",
+    "recent_wins": "0"
   },
   "Taro Daniel": {
     "name": "Taro Daniel",
-    "last_match_date": "20221017",
-    "elo_hard": "81366.5",
-    "elo_clay": "86508",
-    "elo_grass": "86305.1",
-    "ranking": "95",
+    "last_match_date": "20230116",
+    "elo_hard": "82937.4",
+    "elo_clay": "87979",
+    "elo_grass": "87805.1",
+    "ranking": "94",
     "recent_wins": "2"
   },
   "Gonzalo Lama": {
@@ -1277,329 +1295,302 @@
     "ranking": "263",
     "recent_wins": "4"
   },
-  "Chun Hsin Tseng": {
-    "name": "Chun Hsin Tseng",
-    "last_match_date": "20221107",
-    "elo_hard": "75395.6",
-    "elo_clay": "80378.5",
-    "elo_grass": "80232",
-    "ranking": "90",
-    "recent_wins": "0"
-  },
   "Yannick Hanfmann": {
     "name": "Yannick Hanfmann",
-    "last_match_date": "20220801",
-    "elo_hard": "86370.3",
-    "elo_clay": "85579.9",
-    "elo_grass": "87400",
-    "ranking": "139",
+    "last_match_date": "20230116",
+    "elo_hard": "87113.3",
+    "elo_clay": "87399.8",
+    "elo_grass": "88500",
+    "ranking": "128",
     "recent_wins": "5"
   },
-  "Jozef Kovalik": {
-    "name": "Jozef Kovalik",
-    "last_match_date": "20220718",
-    "elo_hard": "81921.6",
-    "elo_clay": "82683.6",
-    "elo_grass": "83200",
-    "ranking": "186",
-    "recent_wins": "3"
-  },
-  "Cedrik Marcel Stebe": {
-    "name": "Cedrik Marcel Stebe",
-    "last_match_date": "20220207",
-    "elo_hard": "76502.9",
-    "elo_clay": "76900",
-    "elo_grass": "76900",
-    "ranking": "231",
+  "Christian Harrison": {
+    "name": "Christian Harrison",
+    "last_match_date": "20220627",
+    "elo_hard": "68800",
+    "elo_clay": "68182.5",
+    "elo_grass": "69084.5",
+    "ranking": "251",
     "recent_wins": "5"
   },
-  "Carlos Taberner": {
-    "name": "Carlos Taberner",
-    "last_match_date": "20221010",
-    "elo_hard": "87980.7",
-    "elo_clay": "85286.7",
-    "elo_grass": "88569",
-    "ranking": "130",
-    "recent_wins": "0"
-  },
-  "Radu Albot": {
-    "name": "Radu Albot",
-    "last_match_date": "20221003",
-    "elo_hard": "84929.6",
-    "elo_clay": "87600",
-    "elo_grass": "85481.8",
-    "ranking": "86",
+  "Steven Diez": {
+    "name": "Steven Diez",
+    "last_match_date": "20220404",
+    "elo_hard": "70800",
+    "elo_clay": "70194.8",
+    "elo_grass": "70800",
+    "ranking": "292",
     "recent_wins": "4"
   },
-  "Carlos Alcaraz": {
-    "name": "Carlos Alcaraz",
-    "last_match_date": "20221031",
-    "elo_hard": "96624.2",
-    "elo_clay": "97880.3",
-    "elo_grass": "96620.4",
-    "ranking": "1",
+  "Bor Artnak": {
+    "name": "Bor Artnak",
+    "last_match_date": "20230203",
+    "elo_hard": "31567.4",
+    "elo_clay": "32200",
+    "elo_grass": "32200",
+    "ranking": "678",
+    "recent_wins": "4"
+  },
+  "Michael Mmoh": {
+    "name": "Michael Mmoh",
+    "last_match_date": "20230206",
+    "elo_hard": "75641.8",
+    "elo_clay": "75887.4",
+    "elo_grass": "77400",
+    "ranking": "86",
+    "recent_wins": "2"
+  },
+  "Sebastian Ofner": {
+    "name": "Sebastian Ofner",
+    "last_match_date": "20220725",
+    "elo_hard": "78100",
+    "elo_clay": "77075.5",
+    "elo_grass": "78100",
+    "ranking": "235",
+    "recent_wins": "4"
+  },
+  "Hernando Jose Escurra Isnardi": {
+    "name": "Hernando Jose Escurra Isnardi",
+    "last_match_date": "20230203",
+    "elo_hard": "-32900",
+    "elo_clay": "-33525.1",
+    "elo_grass": "-32900",
+    "ranking": "1329",
+    "recent_wins": "4"
+  },
+  "Borna Coric": {
+    "name": "Borna Coric",
+    "last_match_date": "20230204",
+    "elo_hard": "80090.4",
+    "elo_clay": "81755.7",
+    "elo_grass": "83300",
+    "ranking": "23",
     "recent_wins": "10"
+  },
+  "Moez Echargui": {
+    "name": "Moez Echargui",
+    "last_match_date": "20230203",
+    "elo_hard": "63857.7",
+    "elo_clay": "63600",
+    "elo_grass": "63600",
+    "ranking": "364",
+    "recent_wins": "7"
+  },
+  "Alejandro Davidovich Fokina": {
+    "name": "Alejandro Davidovich Fokina",
+    "last_match_date": "20230206",
+    "elo_hard": "87435.7",
+    "elo_clay": "91816.1",
+    "elo_grass": "94705.1",
+    "ranking": "32",
+    "recent_wins": "3"
+  },
+  "Nick Kyrgios": {
+    "name": "Nick Kyrgios",
+    "last_match_date": "20221003",
+    "elo_hard": "88519.1",
+    "elo_clay": "86895.8",
+    "elo_grass": "86977.6",
+    "ranking": "20",
+    "recent_wins": "10"
+  },
+  "Kaipo Marshall": {
+    "name": "Kaipo Marshall",
+    "last_match_date": "20230203",
+    "elo_hard": "99500",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "5"
+  },
+  "Philipp Kohlschreiber": {
+    "name": "Philipp Kohlschreiber",
+    "last_match_date": "20220425",
+    "elo_hard": "85802.4",
+    "elo_clay": "85826.6",
+    "elo_grass": "86400",
+    "ranking": "132",
+    "recent_wins": "3"
+  },
+  "Khumoun Sultanov": {
+    "name": "Khumoun Sultanov",
+    "last_match_date": "20230203",
+    "elo_hard": "51367.4",
+    "elo_clay": "52000",
+    "elo_grass": "52000",
+    "ranking": "480",
+    "recent_wins": "4"
+  },
+  "Juan Manuel Cerundolo": {
+    "name": "Juan Manuel Cerundolo",
+    "last_match_date": "20230206",
+    "elo_hard": "91239",
+    "elo_clay": "90899.4",
+    "elo_grass": "92100",
+    "ranking": "114",
+    "recent_wins": "4"
+  },
+  "Nicolas Jarry": {
+    "name": "Nicolas Jarry",
+    "last_match_date": "20230204",
+    "elo_hard": "83796.1",
+    "elo_clay": "84609",
+    "elo_grass": "85700",
+    "ranking": "126",
+    "recent_wins": "3"
   },
   "Tomas Martin Etcheverry": {
     "name": "Tomas Martin Etcheverry",
-    "last_match_date": "20220926",
-    "elo_hard": "83902.2",
-    "elo_clay": "81934.8",
-    "elo_grass": "86164.9",
-    "ranking": "87",
-    "recent_wins": "1"
+    "last_match_date": "20230206",
+    "elo_hard": "84510.7",
+    "elo_clay": "83508.3",
+    "elo_grass": "87264.9",
+    "ranking": "81",
+    "recent_wins": "0"
   },
-  "Alexey Vatutin": {
-    "name": "Alexey Vatutin",
-    "last_match_date": "20221010",
-    "elo_hard": "71433.5",
-    "elo_clay": "72100",
-    "elo_grass": "72100",
-    "ranking": "279",
-    "recent_wins": "4"
-  },
-  "Daniel Elahi Galan": {
-    "name": "Daniel Elahi Galan",
-    "last_match_date": "20221017",
-    "elo_hard": "85442.8",
-    "elo_clay": "84499.7",
-    "elo_grass": "87135.8",
-    "ranking": "72",
-    "recent_wins": "6"
-  },
-  "Federico Coria": {
-    "name": "Federico Coria",
-    "last_match_date": "20220829",
-    "elo_hard": "90857.6",
-    "elo_clay": "87698.5",
-    "elo_grass": "92932",
-    "ranking": "78",
-    "recent_wins": "1"
+  "Juan Pablo Varillas": {
+    "name": "Juan Pablo Varillas",
+    "last_match_date": "20230206",
+    "elo_hard": "87747.9",
+    "elo_clay": "85813.9",
+    "elo_grass": "88300",
+    "ranking": "98",
+    "recent_wins": "2"
   },
   "Hugo Dellien": {
     "name": "Hugo Dellien",
-    "last_match_date": "20220627",
-    "elo_hard": "89100",
-    "elo_clay": "84090.6",
-    "elo_grass": "88497.6",
-    "ranking": "80",
-    "recent_wins": "0"
+    "last_match_date": "20230206",
+    "elo_hard": "89385.7",
+    "elo_clay": "86687",
+    "elo_grass": "89597.6",
+    "ranking": "138",
+    "recent_wins": "3"
   },
-  "Salvatore Caruso": {
-    "name": "Salvatore Caruso",
-    "last_match_date": "20220117",
-    "elo_hard": "84792.2",
-    "elo_clay": "85400",
-    "elo_grass": "85400",
-    "ranking": "146",
+  "Matic Kriznik": {
+    "name": "Matic Kriznik",
+    "last_match_date": "20230203",
+    "elo_hard": "99225",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
     "recent_wins": "4"
   },
-  "Hugo Gaston": {
-    "name": "Hugo Gaston",
-    "last_match_date": "20220919",
-    "elo_hard": "86702.5",
-    "elo_clay": "91189",
-    "elo_grass": "92369.9",
-    "ranking": "79",
-    "recent_wins": "0"
+  "Franco Agamenone": {
+    "name": "Franco Agamenone",
+    "last_match_date": "20220725",
+    "elo_hard": "84400",
+    "elo_clay": "83733.6",
+    "elo_grass": "84400",
+    "ranking": "136",
+    "recent_wins": "6"
   },
-  "Corentin Moutet": {
-    "name": "Corentin Moutet",
-    "last_match_date": "20221031",
-    "elo_hard": "88134",
-    "elo_clay": "89918",
-    "elo_grass": "90800",
-    "ranking": "64",
+  "Hamad Medjedovic": {
+    "name": "Hamad Medjedovic",
+    "last_match_date": "20230203",
+    "elo_hard": "52295.2",
+    "elo_clay": "52113.7",
+    "elo_grass": "52700",
+    "ranking": "258",
+    "recent_wins": "4"
+  },
+  "Arklon Huertas Del Pino": {
+    "name": "Arklon Huertas Del Pino",
+    "last_match_date": "20230203",
+    "elo_hard": "50900",
+    "elo_clay": "51025.1",
+    "elo_grass": "50900",
+    "ranking": "491",
+    "recent_wins": "6"
+  },
+  "Matheus Pucinelli De Almeida": {
+    "name": "Matheus Pucinelli De Almeida",
+    "last_match_date": "20230203",
+    "elo_hard": "73600",
+    "elo_clay": "73295.2",
+    "elo_grass": "73600",
+    "ranking": "212",
+    "recent_wins": "6"
+  },
+  "Jan Lennard Struff": {
+    "name": "Jan Lennard Struff",
+    "last_match_date": "20230116",
+    "elo_hard": "92278.1",
+    "elo_clay": "93825.4",
+    "elo_grass": "92924.5",
+    "ranking": "167",
+    "recent_wins": "1"
+  },
+  "Juan Alejandro Hernandez Serrano": {
+    "name": "Juan Alejandro Hernandez Serrano",
+    "last_match_date": "20220801",
+    "elo_hard": "42357.6",
+    "elo_clay": "43400",
+    "elo_grass": "43400",
+    "ranking": "521",
+    "recent_wins": "4"
+  },
+  "Daniil Medvedev": {
+    "name": "Daniil Medvedev",
+    "last_match_date": "20230116",
+    "elo_hard": "95464.4",
+    "elo_clay": "98680.6",
+    "elo_grass": "98588.5",
+    "ranking": "8",
     "recent_wins": "8"
   },
-  "Denis Kudla": {
-    "name": "Denis Kudla",
-    "last_match_date": "20220919",
-    "elo_hard": "83264.4",
-    "elo_clay": "87615.3",
-    "elo_grass": "87636.7",
-    "ranking": "104",
-    "recent_wins": "1"
-  },
-  "Fabio Fognini": {
-    "name": "Fabio Fognini",
-    "last_match_date": "20221031",
-    "elo_hard": "89908.3",
-    "elo_clay": "91215.6",
-    "elo_grass": "95769.8",
-    "ranking": "59",
-    "recent_wins": "2"
-  },
-  "Pedro Martinez": {
-    "name": "Pedro Martinez",
-    "last_match_date": "20221017",
-    "elo_hard": "87562.2",
-    "elo_clay": "87943.2",
-    "elo_grass": "91935.3",
-    "ranking": "59",
-    "recent_wins": "1"
-  },
-  "Pablo Andujar": {
-    "name": "Pablo Andujar",
-    "last_match_date": "20220926",
-    "elo_hard": "90020",
-    "elo_clay": "87941",
-    "elo_grass": "91027.3",
-    "ranking": "115",
-    "recent_wins": "2"
-  },
-  "Sam Querrey": {
-    "name": "Sam Querrey",
-    "last_match_date": "20220829",
-    "elo_hard": "86095.3",
-    "elo_clay": "88371.2",
-    "elo_grass": "86944.2",
-    "ranking": "287",
-    "recent_wins": "0"
-  },
-  "Miomir Kecmanovic": {
-    "name": "Miomir Kecmanovic",
-    "last_match_date": "20221031",
-    "elo_hard": "88169.5",
-    "elo_clay": "89380.1",
-    "elo_grass": "90356.4",
-    "ranking": "29",
-    "recent_wins": "9"
-  },
-  "Steve Johnson": {
-    "name": "Steve Johnson",
-    "last_match_date": "20221003",
-    "elo_hard": "85493.3",
-    "elo_clay": "90669.4",
-    "elo_grass": "90794.9",
-    "ranking": "112",
-    "recent_wins": "4"
-  },
-  "Brandon Nakashima": {
-    "name": "Brandon Nakashima",
-    "last_match_date": "20221107",
-    "elo_hard": "87743.3",
-    "elo_clay": "91349.8",
-    "elo_grass": "92334.8",
-    "ranking": "49",
+  "Novak Djokovic": {
+    "name": "Novak Djokovic",
+    "last_match_date": "20230116",
+    "elo_hard": "102677",
+    "elo_clay": "99274.6",
+    "elo_grass": "100893",
+    "ranking": "5",
     "recent_wins": "10"
   },
-  "Marius Copil": {
-    "name": "Marius Copil",
-    "last_match_date": "20220926",
-    "elo_hard": "64429.1",
-    "elo_clay": "65000",
-    "elo_grass": "65000",
-    "ranking": "350",
+  "Dennis Novak": {
+    "name": "Dennis Novak",
+    "last_match_date": "20230204",
+    "elo_hard": "85415.1",
+    "elo_clay": "87200",
+    "elo_grass": "86869.3",
+    "ranking": "144",
+    "recent_wins": "2"
+  },
+  "Aleksandre Bakshi": {
+    "name": "Aleksandre Bakshi",
+    "last_match_date": "20230202",
+    "elo_hard": "29732.6",
+    "elo_clay": "29600",
+    "elo_grass": "29600",
+    "ranking": "704",
+    "recent_wins": "6"
+  },
+  "Yosuke Watanuki": {
+    "name": "Yosuke Watanuki",
+    "last_match_date": "20230116",
+    "elo_hard": "72643.1",
+    "elo_clay": "74168.1",
+    "elo_grass": "73700",
+    "ranking": "138",
+    "recent_wins": "6"
+  },
+  "Jack Draper": {
+    "name": "Jack Draper",
+    "last_match_date": "20230116",
+    "elo_hard": "80977",
+    "elo_clay": "85101.7",
+    "elo_grass": "84808.3",
+    "ranking": "38",
+    "recent_wins": "9"
+  },
+  "Pierre Hugues Herbert": {
+    "name": "Pierre Hugues Herbert",
+    "last_match_date": "20220425",
+    "elo_hard": "88612.7",
+    "elo_clay": "88487.2",
+    "elo_grass": "89100",
+    "ranking": "157",
     "recent_wins": "4"
-  },
-  "Rinky Hijikata": {
-    "name": "Rinky Hijikata",
-    "last_match_date": "20220829",
-    "elo_hard": "60602.7",
-    "elo_clay": "62500",
-    "elo_grass": "62500",
-    "ranking": "198",
-    "recent_wins": "2"
-  },
-  "Peter Gojowczyk": {
-    "name": "Peter Gojowczyk",
-    "last_match_date": "20220829",
-    "elo_hard": "85464.5",
-    "elo_clay": "90785.5",
-    "elo_grass": "90244",
-    "ranking": "108",
-    "recent_wins": "0"
-  },
-  "Flavio Cobolli": {
-    "name": "Flavio Cobolli",
-    "last_match_date": "20221017",
-    "elo_hard": "83866.7",
-    "elo_clay": "84411.2",
-    "elo_grass": "85000",
-    "ranking": "167",
-    "recent_wins": "2"
-  },
-  "Kevin Anderson": {
-    "name": "Kevin Anderson",
-    "last_match_date": "20220321",
-    "elo_hard": "89007.7",
-    "elo_clay": "92000",
-    "elo_grass": "92000",
-    "ranking": "91",
-    "recent_wins": "1"
-  },
-  "Nicolas Kicker": {
-    "name": "Nicolas Kicker",
-    "last_match_date": "20220221",
-    "elo_hard": "79700",
-    "elo_clay": "79181",
-    "elo_grass": "79700",
-    "ranking": "203",
-    "recent_wins": "4"
-  },
-  "Adrian Mannarino": {
-    "name": "Adrian Mannarino",
-    "last_match_date": "20221031",
-    "elo_hard": "84302",
-    "elo_clay": "91155.9",
-    "elo_grass": "91041.9",
-    "ranking": "43",
-    "recent_wins": "5"
-  },
-  "Nick Chappell": {
-    "name": "Nick Chappell",
-    "last_match_date": "20220801",
-    "elo_hard": "49394.5",
-    "elo_clay": "50000",
-    "elo_grass": "50000",
-    "ranking": "500",
-    "recent_wins": "4"
-  },
-  "Sebastian Baez": {
-    "name": "Sebastian Baez",
-    "last_match_date": "20221031",
-    "elo_hard": "83218.3",
-    "elo_clay": "85395.4",
-    "elo_grass": "88873.5",
-    "ranking": "40",
-    "recent_wins": "3"
-  },
-  "Christopher Oconnell": {
-    "name": "Christopher Oconnell",
-    "last_match_date": "20220919",
-    "elo_hard": "79100.4",
-    "elo_clay": "81409.2",
-    "elo_grass": "81912.4",
-    "ranking": "130",
-    "recent_wins": "2"
-  },
-  "Stefan Kozlov": {
-    "name": "Stefan Kozlov",
-    "last_match_date": "20220919",
-    "elo_hard": "80149.9",
-    "elo_clay": "83100",
-    "elo_grass": "81846.4",
-    "ranking": "108",
-    "recent_wins": "1"
-  },
-  "Christopher Eubanks": {
-    "name": "Christopher Eubanks",
-    "last_match_date": "20220919",
-    "elo_hard": "80930.3",
-    "elo_clay": "83300",
-    "elo_grass": "82958.8",
-    "ranking": "135",
-    "recent_wins": "3"
-  },
-  "Andreas Seppi": {
-    "name": "Andreas Seppi",
-    "last_match_date": "20220606",
-    "elo_hard": "87858.9",
-    "elo_clay": "89800",
-    "elo_grass": "89206.3",
-    "ranking": "141",
-    "recent_wins": "2"
   },
   "Gijs Brouwer": {
     "name": "Gijs Brouwer",
@@ -1610,230 +1601,239 @@
     "ranking": "181",
     "recent_wins": "6"
   },
-  "Jack Draper": {
-    "name": "Jack Draper",
-    "last_match_date": "20221107",
-    "elo_hard": "82092.7",
-    "elo_clay": "85101.7",
-    "elo_grass": "84808.3",
-    "ranking": "41",
-    "recent_wins": "9"
+  "Aljaz Bedene": {
+    "name": "Aljaz Bedene",
+    "last_match_date": "20220829",
+    "elo_hard": "84954.3",
+    "elo_clay": "84330.2",
+    "elo_grass": "85513.7",
+    "ranking": "347",
+    "recent_wins": "0"
   },
-  "Pierre Hugues Herbert": {
-    "name": "Pierre Hugues Herbert",
-    "last_match_date": "20220425",
-    "elo_hard": "87871.5",
-    "elo_clay": "88087.2",
-    "elo_grass": "88700",
-    "ranking": "157",
+  "Kamil Majchrzak": {
+    "name": "Kamil Majchrzak",
+    "last_match_date": "20221003",
+    "elo_hard": "89387.8",
+    "elo_clay": "90450",
+    "elo_grass": "91112.7",
+    "ranking": "121",
+    "recent_wins": "2"
+  },
+  "Simon Carr": {
+    "name": "Simon Carr",
+    "last_match_date": "20230203",
+    "elo_hard": "26200",
+    "elo_clay": "25574.9",
+    "elo_grass": "26200",
+    "ranking": "738",
     "recent_wins": "4"
+  },
+  "Elmer Moller": {
+    "name": "Elmer Moller",
+    "last_match_date": "20230203",
+    "elo_hard": "27567.4",
+    "elo_clay": "28200",
+    "elo_grass": "28200",
+    "ranking": "718",
+    "recent_wins": "4"
+  },
+  "Norbert Gombos": {
+    "name": "Norbert Gombos",
+    "last_match_date": "20220829",
+    "elo_hard": "87388.7",
+    "elo_clay": "86761.5",
+    "elo_grass": "88600",
+    "ranking": "114",
+    "recent_wins": "1"
+  },
+  "Jesper De Jong": {
+    "name": "Jesper De Jong",
+    "last_match_date": "20221017",
+    "elo_hard": "82302.9",
+    "elo_clay": "82900",
+    "elo_grass": "82298.1",
+    "ranking": "225",
+    "recent_wins": "3"
+  },
+  "Gilles Simon": {
+    "name": "Gilles Simon",
+    "last_match_date": "20221031",
+    "elo_hard": "84835.5",
+    "elo_clay": "86076.6",
+    "elo_grass": "86501.4",
+    "ranking": "188",
+    "recent_wins": "4"
+  },
+  "Nicholas David Ionel": {
+    "name": "Nicholas David Ionel",
+    "last_match_date": "20230203",
+    "elo_hard": "76850.1",
+    "elo_clay": "77500",
+    "elo_grass": "77500",
+    "ranking": "225",
+    "recent_wins": "5"
+  },
+  "Gregoire Barrere": {
+    "name": "Gregoire Barrere",
+    "last_match_date": "20230206",
+    "elo_hard": "77637.6",
+    "elo_clay": "78149.3",
+    "elo_grass": "79100",
+    "ranking": "75",
+    "recent_wins": "4"
+  },
+  "Alexander Zverev": {
+    "name": "Alexander Zverev",
+    "last_match_date": "20230203",
+    "elo_hard": "95270",
+    "elo_clay": "98783.3",
+    "elo_grass": "99700",
+    "ranking": "14",
+    "recent_wins": "8"
+  },
+  "Alexander Bublik": {
+    "name": "Alexander Bublik",
+    "last_match_date": "20230204",
+    "elo_hard": "87109.4",
+    "elo_clay": "92053.6",
+    "elo_grass": "94985.8",
+    "ranking": "36",
+    "recent_wins": "0"
+  },
+  "Damir Dzumhur": {
+    "name": "Damir Dzumhur",
+    "last_match_date": "20230203",
+    "elo_hard": "84151.1",
+    "elo_clay": "85392.4",
+    "elo_grass": "86000",
+    "ranking": "197",
+    "recent_wins": "1"
+  },
+  "Denis Kudla": {
+    "name": "Denis Kudla",
+    "last_match_date": "20230203",
+    "elo_hard": "83780.9",
+    "elo_clay": "88004.9",
+    "elo_grass": "88036.7",
+    "ranking": "93",
+    "recent_wins": "1"
+  },
+  "Corentin Moutet": {
+    "name": "Corentin Moutet",
+    "last_match_date": "20230116",
+    "elo_hard": "87405.5",
+    "elo_clay": "88395.9",
+    "elo_grass": "89300",
+    "ranking": "62",
+    "recent_wins": "7"
+  },
+  "Ernesto Escobedo": {
+    "name": "Ernesto Escobedo",
+    "last_match_date": "20230116",
+    "elo_hard": "82205.7",
+    "elo_clay": "83400",
+    "elo_grass": "83400",
+    "ranking": "313",
+    "recent_wins": "3"
+  },
+  "Richard Gasquet": {
+    "name": "Richard Gasquet",
+    "last_match_date": "20230206",
+    "elo_hard": "87227.8",
+    "elo_clay": "89583.1",
+    "elo_grass": "92199.6",
+    "ranking": "45",
+    "recent_wins": "8"
+  },
+  "Otto Virtanen": {
+    "name": "Otto Virtanen",
+    "last_match_date": "20230204",
+    "elo_hard": "81269.9",
+    "elo_clay": "81900",
+    "elo_grass": "81900",
+    "ranking": "181",
+    "recent_wins": "4"
+  },
+  "Radu Albot": {
+    "name": "Radu Albot",
+    "last_match_date": "20230206",
+    "elo_hard": "87373.8",
+    "elo_clay": "90300",
+    "elo_grass": "88181.8",
+    "ranking": "123",
+    "recent_wins": "2"
+  },
+  "Holger Rune": {
+    "name": "Holger Rune",
+    "last_match_date": "20230203",
+    "elo_hard": "87611.3",
+    "elo_clay": "87977.9",
+    "elo_grass": "88886.9",
+    "ranking": "9",
+    "recent_wins": "10"
+  },
+  "Rowland Phillips": {
+    "name": "Rowland Phillips",
+    "last_match_date": "20230204",
+    "elo_hard": "-38425",
+    "elo_clay": "-38700",
+    "elo_grass": "-38700",
+    "ranking": "1387",
+    "recent_wins": "6"
   },
   "Stefano Travaglia": {
     "name": "Stefano Travaglia",
     "last_match_date": "20220404",
-    "elo_hard": "89479.9",
-    "elo_clay": "91532.1",
-    "elo_grass": "92200",
+    "elo_hard": "87746",
+    "elo_clay": "87432.1",
+    "elo_grass": "88100",
     "ranking": "112",
-    "recent_wins": "2"
-  },
-  "Facundo Bagnis": {
-    "name": "Facundo Bagnis",
-    "last_match_date": "20220829",
-    "elo_hard": "88814.1",
-    "elo_clay": "89287.4",
-    "elo_grass": "91654.7",
-    "ranking": "105",
-    "recent_wins": "1"
-  },
-  "Pavel Kotov": {
-    "name": "Pavel Kotov",
-    "last_match_date": "20221003",
-    "elo_hard": "81848.3",
-    "elo_clay": "81851.4",
-    "elo_grass": "82800",
-    "ranking": "103",
-    "recent_wins": "3"
-  },
-  "Jordan Thompson": {
-    "name": "Jordan Thompson",
-    "last_match_date": "20220829",
-    "elo_hard": "87384.1",
-    "elo_clay": "90270.6",
-    "elo_grass": "90738",
-    "ranking": "102",
-    "recent_wins": "1"
-  },
-  "Nikola Milojevic": {
-    "name": "Nikola Milojevic",
-    "last_match_date": "20220131",
-    "elo_hard": "85500.4",
-    "elo_clay": "85636.2",
-    "elo_grass": "86100",
-    "ranking": "136",
     "recent_wins": "4"
   },
-  "Taylor Fritz": {
-    "name": "Taylor Fritz",
-    "last_match_date": "20221114",
-    "elo_hard": "94292.5",
-    "elo_clay": "96199.4",
-    "elo_grass": "96815.3",
-    "ranking": "9",
-    "recent_wins": "10"
-  },
-  "Feliciano Lopez": {
-    "name": "Feliciano Lopez",
-    "last_match_date": "20221010",
-    "elo_hard": "86097.4",
-    "elo_clay": "87645.2",
-    "elo_grass": "86628",
-    "ranking": "415",
-    "recent_wins": "0"
-  },
-  "David Goffin": {
-    "name": "David Goffin",
-    "last_match_date": "20221024",
-    "elo_hard": "85959.3",
-    "elo_clay": "95206.9",
-    "elo_grass": "95616.1",
-    "ranking": "53",
-    "recent_wins": "3"
-  },
-  "Gianluca Mager": {
-    "name": "Gianluca Mager",
-    "last_match_date": "20220131",
-    "elo_hard": "91350.5",
-    "elo_clay": "93800",
-    "elo_grass": "93800",
-    "ranking": "67",
-    "recent_wins": "3"
-  },
-  "Alexei Popyrin": {
-    "name": "Alexei Popyrin",
-    "last_match_date": "20221003",
-    "elo_hard": "85895.4",
-    "elo_clay": "93281.9",
-    "elo_grass": "92643.2",
-    "ranking": "93",
-    "recent_wins": "0"
-  },
-  "Jaume Munar": {
-    "name": "Jaume Munar",
-    "last_match_date": "20221017",
-    "elo_hard": "85432",
-    "elo_clay": "88305.6",
-    "elo_grass": "91236",
-    "ranking": "55",
-    "recent_wins": "1"
-  },
-  "Lloyd Harris": {
-    "name": "Lloyd Harris",
-    "last_match_date": "20220523",
-    "elo_hard": "92766.1",
-    "elo_clay": "93818.8",
-    "elo_grass": "96800",
-    "ranking": "39",
-    "recent_wins": "0"
-  },
-  "Ben Shelton": {
-    "name": "Ben Shelton",
-    "last_match_date": "20220829",
-    "elo_hard": "70817.4",
-    "elo_clay": "71900",
-    "elo_grass": "71900",
-    "ranking": "165",
-    "recent_wins": "5"
-  },
-  "Botic Van De Zandschulp": {
-    "name": "Botic Van De Zandschulp",
-    "last_match_date": "20221031",
-    "elo_hard": "85321.8",
-    "elo_clay": "91661.4",
-    "elo_grass": "92472.5",
-    "ranking": "35",
-    "recent_wins": "7"
-  },
-  "Thiago Monteiro": {
-    "name": "Thiago Monteiro",
-    "last_match_date": "20221024",
-    "elo_hard": "86645.6",
-    "elo_clay": "88381.8",
-    "elo_grass": "90026.8",
-    "ranking": "66",
-    "recent_wins": "0"
-  },
-  "Alex Molcan": {
-    "name": "Alex Molcan",
-    "last_match_date": "20221031",
-    "elo_hard": "84854.7",
-    "elo_clay": "89885.9",
-    "elo_grass": "89799.4",
-    "ranking": "44",
-    "recent_wins": "6"
-  },
-  "Maxime Cressy": {
-    "name": "Maxime Cressy",
-    "last_match_date": "20221031",
-    "elo_hard": "80559.2",
-    "elo_clay": "85733.8",
-    "elo_grass": "87910.3",
-    "ranking": "34",
+  "Jacob Bicknell": {
+    "name": "Jacob Bicknell",
+    "last_match_date": "20230204",
+    "elo_hard": "99150",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
     "recent_wins": "4"
   },
-  "Jack Sock": {
-    "name": "Jack Sock",
-    "last_match_date": "20220923",
-    "elo_hard": "82105.8",
-    "elo_clay": "84738.1",
-    "elo_grass": "84765.9",
-    "ranking": "128",
-    "recent_wins": "2"
+  "Stan Wawrinka": {
+    "name": "Stan Wawrinka",
+    "last_match_date": "20230203",
+    "elo_hard": "73135",
+    "elo_clay": "74436.9",
+    "elo_grass": "75409.7",
+    "ranking": "135",
+    "recent_wins": "1"
   },
-  "Grigor Dimitrov": {
-    "name": "Grigor Dimitrov",
-    "last_match_date": "20221031",
-    "elo_hard": "89641.4",
-    "elo_clay": "95576.3",
-    "elo_grass": "96747.9",
-    "ranking": "28",
+  "Pedro Cachin": {
+    "name": "Pedro Cachin",
+    "last_match_date": "20230204",
+    "elo_hard": "80302.8",
+    "elo_clay": "82871.7",
+    "elo_grass": "84700",
+    "ranking": "68",
+    "recent_wins": "0"
+  },
+  "Karen Khachanov": {
+    "name": "Karen Khachanov",
+    "last_match_date": "20230116",
+    "elo_hard": "90008.9",
+    "elo_clay": "93961.8",
+    "elo_grass": "96299.7",
+    "ranking": "20",
     "recent_wins": "9"
   },
-  "Rafael Nadal": {
-    "name": "Rafael Nadal",
-    "last_match_date": "20221114",
-    "elo_hard": "98540.2",
-    "elo_clay": "99324.8",
-    "elo_grass": "99235.1",
-    "ranking": "2",
-    "recent_wins": "7"
-  },
-  "Aleksandar Vukic": {
-    "name": "Aleksandar Vukic",
-    "last_match_date": "20220926",
-    "elo_hard": "82932.6",
-    "elo_clay": "84400",
-    "elo_grass": "84400",
-    "ranking": "144",
-    "recent_wins": "6"
-  },
-  "Francisco Cerundolo": {
-    "name": "Francisco Cerundolo",
-    "last_match_date": "20221031",
-    "elo_hard": "82000.8",
-    "elo_clay": "85532.1",
-    "elo_grass": "85521.5",
-    "ranking": "30",
-    "recent_wins": "5"
-  },
-  "Daniel Altmaier": {
-    "name": "Daniel Altmaier",
-    "last_match_date": "20220829",
-    "elo_hard": "84596.1",
-    "elo_clay": "87640.9",
-    "elo_grass": "89373",
-    "ranking": "93",
-    "recent_wins": "0"
+  "Tomas Machac": {
+    "name": "Tomas Machac",
+    "last_match_date": "20230204",
+    "elo_hard": "85860.8",
+    "elo_clay": "88780",
+    "elo_grass": "88500",
+    "ranking": "122",
+    "recent_wins": "3"
   },
   "Mili Poljicak": {
     "name": "Mili Poljicak",
@@ -1846,570 +1846,57 @@
   },
   "Benjamin Bonzi": {
     "name": "Benjamin Bonzi",
-    "last_match_date": "20221017",
-    "elo_hard": "86819.4",
-    "elo_clay": "91833.2",
-    "elo_grass": "91772.8",
-    "ranking": "63",
-    "recent_wins": "2"
-  },
-  "Filip Krajinovic": {
-    "name": "Filip Krajinovic",
-    "last_match_date": "20220829",
-    "elo_hard": "91205.4",
-    "elo_clay": "93285",
-    "elo_grass": "95341",
-    "ranking": "44",
-    "recent_wins": "7"
-  },
-  "Duje Ajdukovic": {
-    "name": "Duje Ajdukovic",
-    "last_match_date": "20220725",
-    "elo_hard": "72400",
-    "elo_clay": "71803.7",
-    "elo_grass": "72400",
-    "ranking": "276",
-    "recent_wins": "4"
-  },
-  "Alex De Minaur": {
-    "name": "Alex De Minaur",
-    "last_match_date": "20221031",
-    "elo_hard": "91515",
-    "elo_clay": "93497.7",
-    "elo_grass": "94900.9",
-    "ranking": "25",
-    "recent_wins": "10"
-  },
-  "Michail Pervolarakis": {
-    "name": "Michail Pervolarakis",
-    "last_match_date": "20220822",
-    "elo_hard": "58283",
-    "elo_clay": "60100",
-    "elo_grass": "60100",
-    "ranking": "377",
-    "recent_wins": "3"
-  },
-  "Yoshihito Nishioka": {
-    "name": "Yoshihito Nishioka",
-    "last_match_date": "20221031",
-    "elo_hard": "87006.5",
-    "elo_clay": "90648.6",
-    "elo_grass": "91298.8",
-    "ranking": "38",
-    "recent_wins": "8"
-  },
-  "Lucas Pouille": {
-    "name": "Lucas Pouille",
-    "last_match_date": "20220523",
-    "elo_hard": "82787.4",
-    "elo_clay": "82428.9",
-    "elo_grass": "84000",
-    "ranking": "162",
-    "recent_wins": "2"
-  },
-  "Dusan Lajovic": {
-    "name": "Dusan Lajovic",
-    "last_match_date": "20220926",
-    "elo_hard": "91262.7",
-    "elo_clay": "91421.6",
-    "elo_grass": "95423.2",
-    "ranking": "86",
-    "recent_wins": "0"
-  },
-  "Jiri Vesely": {
-    "name": "Jiri Vesely",
-    "last_match_date": "20220829",
-    "elo_hard": "88449.3",
-    "elo_clay": "90284",
-    "elo_grass": "90881.3",
-    "ranking": "68",
-    "recent_wins": "2"
-  },
-  "Arthur Rinderknech": {
-    "name": "Arthur Rinderknech",
-    "last_match_date": "20221031",
-    "elo_hard": "88457.3",
-    "elo_clay": "92441",
-    "elo_grass": "93153.8",
-    "ranking": "42",
-    "recent_wins": "6"
-  },
-  "Lorenzo Musetti": {
-    "name": "Lorenzo Musetti",
-    "last_match_date": "20221107",
-    "elo_hard": "84874.8",
-    "elo_clay": "93350.2",
-    "elo_grass": "92866.5",
-    "ranking": "23",
-    "recent_wins": "9"
-  },
-  "Bjorn Fratangelo": {
-    "name": "Bjorn Fratangelo",
-    "last_match_date": "20220523",
-    "elo_hard": "81400",
-    "elo_clay": "80775.8",
-    "elo_grass": "81400",
-    "ranking": "186",
-    "recent_wins": "4"
-  },
-  "Alex Bolt": {
-    "name": "Alex Bolt",
-    "last_match_date": "20220117",
-    "elo_hard": "84480",
-    "elo_clay": "86300",
-    "elo_grass": "86300",
-    "ranking": "152",
-    "recent_wins": "2"
-  },
-  "Kacper Zuk": {
-    "name": "Kacper Zuk",
-    "last_match_date": "20220131",
-    "elo_hard": "82043.8",
-    "elo_clay": "82800",
-    "elo_grass": "82800",
-    "ranking": "172",
-    "recent_wins": "4"
-  },
-  "Oscar Otte": {
-    "name": "Oscar Otte",
-    "last_match_date": "20221031",
-    "elo_hard": "82416.9",
-    "elo_clay": "88250.5",
-    "elo_grass": "90176.6",
-    "ranking": "57",
-    "recent_wins": "2"
-  },
-  "Beibit Zhukayev": {
-    "name": "Beibit Zhukayev",
-    "last_match_date": "20221003",
-    "elo_hard": "66707.1",
-    "elo_clay": "67300",
-    "elo_grass": "67300",
-    "ranking": "327",
-    "recent_wins": "4"
-  },
-  "Tallon Griekspoor": {
-    "name": "Tallon Griekspoor",
-    "last_match_date": "20221024",
-    "elo_hard": "86026.8",
-    "elo_clay": "90474",
-    "elo_grass": "91793.8",
-    "ranking": "71",
-    "recent_wins": "0"
-  },
-  "Mikhail Kukushkin": {
-    "name": "Mikhail Kukushkin",
-    "last_match_date": "20221003",
-    "elo_hard": "79302.9",
-    "elo_clay": "81441.2",
-    "elo_grass": "81383.8",
-    "ranking": "221",
-    "recent_wins": "0"
-  },
-  "Soon Woo Kwon": {
-    "name": "Soon Woo Kwon",
-    "last_match_date": "20221003",
-    "elo_hard": "87589.6",
-    "elo_clay": "92093.2",
-    "elo_grass": "93446.4",
-    "ranking": "120",
-    "recent_wins": "3"
-  },
-  "Ivan Gakhov": {
-    "name": "Ivan Gakhov",
-    "last_match_date": "20220725",
-    "elo_hard": "68500",
-    "elo_clay": "67969.5",
-    "elo_grass": "68500",
-    "ranking": "315",
-    "recent_wins": "4"
-  },
-  "Felix Auger Aliassime": {
-    "name": "Felix Auger Aliassime",
-    "last_match_date": "20221114",
-    "elo_hard": "94476.8",
-    "elo_clay": "95744",
-    "elo_grass": "96687.1",
-    "ranking": "6",
-    "recent_wins": "8"
-  },
-  "Max Purcell": {
-    "name": "Max Purcell",
-    "last_match_date": "20220801",
-    "elo_hard": "81474.6",
-    "elo_clay": "81807.3",
-    "elo_grass": "81529.9",
-    "ranking": "234",
-    "recent_wins": "2"
-  },
-  "Marco Trungelliti": {
-    "name": "Marco Trungelliti",
-    "last_match_date": "20221010",
-    "elo_hard": "78947.7",
-    "elo_clay": "80200",
-    "elo_grass": "80200",
-    "ranking": "241",
-    "recent_wins": "3"
-  },
-  "Laslo Djere": {
-    "name": "Laslo Djere",
-    "last_match_date": "20221024",
-    "elo_hard": "89318.4",
-    "elo_clay": "89703.9",
-    "elo_grass": "92907.4",
-    "ranking": "75",
-    "recent_wins": "1"
-  },
-  "Frances Tiafoe": {
-    "name": "Frances Tiafoe",
-    "last_match_date": "20221031",
-    "elo_hard": "89940.3",
-    "elo_clay": "93055",
-    "elo_grass": "94588.4",
-    "ranking": "21",
-    "recent_wins": "10"
-  },
-  "Andy Murray": {
-    "name": "Andy Murray",
-    "last_match_date": "20221031",
-    "elo_hard": "79303.8",
-    "elo_clay": "86377",
-    "elo_grass": "86153.1",
-    "ranking": "48",
-    "recent_wins": "8"
-  },
-  "Casper Ruud": {
-    "name": "Casper Ruud",
-    "last_match_date": "20221114",
-    "elo_hard": "94175.6",
-    "elo_clay": "97603.9",
-    "elo_grass": "97847.2",
-    "ranking": "4",
-    "recent_wins": "9"
-  },
-  "Malek Jaziri": {
-    "name": "Malek Jaziri",
-    "last_match_date": "20220404",
-    "elo_hard": "68514.1",
-    "elo_clay": "69085.9",
-    "elo_grass": "69700",
-    "ranking": "329",
-    "recent_wins": "2"
-  },
-  "Seong Chan Hong": {
-    "name": "Seong Chan Hong",
-    "last_match_date": "20220926",
-    "elo_hard": "52289.2",
-    "elo_clay": "52900",
-    "elo_grass": "52900",
-    "ranking": "471",
-    "recent_wins": "4"
-  },
-  "Caleb Chakravarthi": {
-    "name": "Caleb Chakravarthi",
-    "last_match_date": "20220207",
-    "elo_hard": "99148.4",
-    "elo_clay": "100000",
-    "elo_grass": "100000",
-    "ranking": "0",
-    "recent_wins": "4"
-  },
-  "Philipp Kohlschreiber": {
-    "name": "Philipp Kohlschreiber",
-    "last_match_date": "20220425",
-    "elo_hard": "85610",
-    "elo_clay": "86026.6",
-    "elo_grass": "86600",
-    "ranking": "132",
-    "recent_wins": "3"
-  },
-  "Juan Manuel Cerundolo": {
-    "name": "Juan Manuel Cerundolo",
-    "last_match_date": "20220321",
-    "elo_hard": "88913.5",
-    "elo_clay": "90261.3",
-    "elo_grass": "91000",
-    "ranking": "122",
-    "recent_wins": "3"
-  },
-  "Lucas Catarina": {
-    "name": "Lucas Catarina",
-    "last_match_date": "20220411",
-    "elo_hard": "57000",
-    "elo_clay": "56471.4",
-    "elo_grass": "57000",
-    "ranking": "430",
-    "recent_wins": "4"
-  },
-  "Maximilian Marterer": {
-    "name": "Maximilian Marterer",
-    "last_match_date": "20220829",
-    "elo_hard": "75971.4",
-    "elo_clay": "77200",
-    "elo_grass": "76691.3",
-    "ranking": "156",
-    "recent_wins": "3"
-  },
-  "Egor Gerasimov": {
-    "name": "Egor Gerasimov",
-    "last_match_date": "20220425",
-    "elo_hard": "85606.4",
-    "elo_clay": "88081",
-    "elo_grass": "88700",
-    "ranking": "150",
-    "recent_wins": "1"
-  },
-  "Thanasi Kokkinakis": {
-    "name": "Thanasi Kokkinakis",
-    "last_match_date": "20221003",
-    "elo_hard": "78483.2",
-    "elo_clay": "82214.5",
-    "elo_grass": "82452.3",
-    "ranking": "91",
-    "recent_wins": "4"
-  },
-  "Yuta Shimizu": {
-    "name": "Yuta Shimizu",
-    "last_match_date": "20221003",
-    "elo_hard": "54289.8",
-    "elo_clay": "54900",
-    "elo_grass": "54900",
-    "ranking": "451",
-    "recent_wins": "4"
-  },
-  "Stefanos Tsitsipas": {
-    "name": "Stefanos Tsitsipas",
-    "last_match_date": "20221114",
-    "elo_hard": "92375.2",
-    "elo_clay": "99247.2",
-    "elo_grass": "98265.3",
-    "ranking": "3",
-    "recent_wins": "8"
-  },
-  "Mikael Ymer": {
-    "name": "Mikael Ymer",
-    "last_match_date": "20221031",
-    "elo_hard": "86402.5",
-    "elo_clay": "88422.9",
-    "elo_grass": "90264.4",
-    "ranking": "74",
-    "recent_wins": "8"
-  },
-  "Elias Ymer": {
-    "name": "Elias Ymer",
-    "last_match_date": "20221017",
-    "elo_hard": "83218.8",
-    "elo_clay": "82611.3",
-    "elo_grass": "83086.6",
-    "ranking": "129",
+    "last_match_date": "20230203",
+    "elo_hard": "86338.8",
+    "elo_clay": "91322.6",
+    "elo_grass": "91272.8",
+    "ranking": "45",
     "recent_wins": "5"
-  },
-  "Ricardas Berankis": {
-    "name": "Ricardas Berankis",
-    "last_match_date": "20220926",
-    "elo_hard": "87129",
-    "elo_clay": "87768.9",
-    "elo_grass": "89143.5",
-    "ranking": "120",
-    "recent_wins": "2"
-  },
-  "Marin Cilic": {
-    "name": "Marin Cilic",
-    "last_match_date": "20221031",
-    "elo_hard": "90615.5",
-    "elo_clay": "95477.2",
-    "elo_grass": "96650.7",
-    "ranking": "17",
-    "recent_wins": "8"
-  },
-  "Aslan Karatsev": {
-    "name": "Aslan Karatsev",
-    "last_match_date": "20221031",
-    "elo_hard": "86950.4",
-    "elo_clay": "92453.2",
-    "elo_grass": "96883.5",
-    "ranking": "58",
-    "recent_wins": "0"
-  },
-  "Emil Ruusuvuori": {
-    "name": "Emil Ruusuvuori",
-    "last_match_date": "20221024",
-    "elo_hard": "84346.6",
-    "elo_clay": "86632.2",
-    "elo_grass": "88627.3",
-    "ranking": "43",
-    "recent_wins": "8"
-  },
-  "Aljaz Bedene": {
-    "name": "Aljaz Bedene",
-    "last_match_date": "20220829",
-    "elo_hard": "84954.3",
-    "elo_clay": "84373.3",
-    "elo_grass": "85513.7",
-    "ranking": "347",
-    "recent_wins": "0"
-  },
-  "Timofey Skatov": {
-    "name": "Timofey Skatov",
-    "last_match_date": "20220117",
-    "elo_hard": "74100",
-    "elo_clay": "74700",
-    "elo_grass": "74700",
-    "ranking": "253",
-    "recent_wins": "4"
-  },
-  "Kamil Majchrzak": {
-    "name": "Kamil Majchrzak",
-    "last_match_date": "20221003",
-    "elo_hard": "85592.3",
-    "elo_clay": "86674.5",
-    "elo_grass": "87312.7",
-    "ranking": "121",
-    "recent_wins": "7"
-  },
-  "Alejandro Tabilo": {
-    "name": "Alejandro Tabilo",
-    "last_match_date": "20220919",
-    "elo_hard": "82888.9",
-    "elo_clay": "84750.2",
-    "elo_grass": "85127",
-    "ranking": "70",
-    "recent_wins": "5"
-  },
-  "Gael Monfils": {
-    "name": "Gael Monfils",
-    "last_match_date": "20220808",
-    "elo_hard": "97158.1",
-    "elo_clay": "97495.3",
-    "elo_grass": "97900",
-    "ranking": "20",
-    "recent_wins": "10"
   },
   "Dominik Koepfer": {
     "name": "Dominik Koepfer",
     "last_match_date": "20220801",
-    "elo_hard": "91538.4",
-    "elo_clay": "94600",
-    "elo_grass": "92560",
+    "elo_hard": "93010",
+    "elo_clay": "94900",
+    "elo_grass": "92860",
     "ranking": "145",
     "recent_wins": "1"
   },
-  "Nicolas Alvarez Varona": {
-    "name": "Nicolas Alvarez Varona",
-    "last_match_date": "20221010",
-    "elo_hard": "71110.5",
-    "elo_clay": "70895.1",
-    "elo_grass": "71500",
-    "ranking": "231",
+  "Gael Monfils": {
+    "name": "Gael Monfils",
+    "last_match_date": "20220808",
+    "elo_hard": "96494.3",
+    "elo_clay": "96795.3",
+    "elo_grass": "97200",
+    "ranking": "20",
+    "recent_wins": "8"
+  },
+  "Alejandro Tabilo": {
+    "name": "Alejandro Tabilo",
+    "last_match_date": "20230206",
+    "elo_hard": "87104.3",
+    "elo_clay": "86806.6",
+    "elo_grass": "87727",
+    "ranking": "146",
     "recent_wins": "4"
   },
-  "Nikoloz Basilashvili": {
-    "name": "Nikoloz Basilashvili",
-    "last_match_date": "20221031",
-    "elo_hard": "87120.7",
-    "elo_clay": "93282.8",
-    "elo_grass": "96118.7",
-    "ranking": "106",
-    "recent_wins": "1"
+  "Alex Knaff": {
+    "name": "Alex Knaff",
+    "last_match_date": "20230204",
+    "elo_hard": "39600.1",
+    "elo_clay": "39200",
+    "elo_grass": "39200",
+    "ranking": "608",
+    "recent_wins": "7"
   },
-  "Henri Laaksonen": {
-    "name": "Henri Laaksonen",
-    "last_match_date": "20220919",
-    "elo_hard": "84603.3",
-    "elo_clay": "88020.2",
-    "elo_grass": "89441.6",
-    "ranking": "125",
-    "recent_wins": "0"
-  },
-  "Jan Zielinski": {
-    "name": "Jan Zielinski",
-    "last_match_date": "20220103",
-    "elo_hard": "13377.6",
-    "elo_clay": "14000",
-    "elo_grass": "14000",
-    "ranking": "860",
+  "Yu Hsiou Hsu": {
+    "name": "Yu Hsiou Hsu",
+    "last_match_date": "20230116",
+    "elo_hard": "78481.7",
+    "elo_clay": "79100",
+    "elo_grass": "79100",
+    "ranking": "209",
     "recent_wins": "4"
-  },
-  "Marton Fucsovics": {
-    "name": "Marton Fucsovics",
-    "last_match_date": "20221017",
-    "elo_hard": "89036.6",
-    "elo_clay": "94812.9",
-    "elo_grass": "95725.2",
-    "ranking": "91",
-    "recent_wins": "1"
-  },
-  "Jannik Sinner": {
-    "name": "Jannik Sinner",
-    "last_match_date": "20221031",
-    "elo_hard": "96360.2",
-    "elo_clay": "99006",
-    "elo_grass": "98230.5",
-    "ranking": "12",
-    "recent_wins": "9"
-  },
-  "Marco Cecchinato": {
-    "name": "Marco Cecchinato",
-    "last_match_date": "20220725",
-    "elo_hard": "89733.9",
-    "elo_clay": "87671",
-    "elo_grass": "90500",
-    "ranking": "151",
-    "recent_wins": "2"
-  },
-  "Diego Schwartzman": {
-    "name": "Diego Schwartzman",
-    "last_match_date": "20221031",
-    "elo_hard": "91152.5",
-    "elo_clay": "93956.5",
-    "elo_grass": "96556.2",
-    "ranking": "24",
-    "recent_wins": "2"
-  },
-  "Aristotelis Thanos": {
-    "name": "Aristotelis Thanos",
-    "last_match_date": "20220103",
-    "elo_hard": "-8423.93",
-    "elo_clay": "-7800",
-    "elo_grass": "-7800",
-    "ranking": "1078",
-    "recent_wins": "4"
-  },
-  "Benoit Paire": {
-    "name": "Benoit Paire",
-    "last_match_date": "20220829",
-    "elo_hard": "89885.3",
-    "elo_clay": "89482.2",
-    "elo_grass": "94005.1",
-    "ranking": "173",
-    "recent_wins": "0"
-  },
-  "Mackenzie Mcdonald": {
-    "name": "Mackenzie Mcdonald",
-    "last_match_date": "20221024",
-    "elo_hard": "86130.9",
-    "elo_clay": "92429.2",
-    "elo_grass": "92312.4",
-    "ranking": "65",
-    "recent_wins": "4"
-  },
-  "Roberto Carballes Baena": {
-    "name": "Roberto Carballes Baena",
-    "last_match_date": "20221017",
-    "elo_hard": "87817.7",
-    "elo_clay": "87839.5",
-    "elo_grass": "91454.5",
-    "ranking": "76",
-    "recent_wins": "3"
-  },
-  "John Millman": {
-    "name": "John Millman",
-    "last_match_date": "20220829",
-    "elo_hard": "87889.7",
-    "elo_clay": "90429.6",
-    "elo_grass": "91844",
-    "ranking": "103",
-    "recent_wins": "0"
   },
   "Rio Noguchi": {
     "name": "Rio Noguchi",
@@ -2422,137 +1909,110 @@
   },
   "Roman Safiullin": {
     "name": "Roman Safiullin",
-    "last_match_date": "20221024",
-    "elo_hard": "81799.3",
-    "elo_clay": "83006.1",
-    "elo_grass": "83300",
-    "ranking": "93",
+    "last_match_date": "20230116",
+    "elo_hard": "82365.5",
+    "elo_clay": "83406.1",
+    "elo_grass": "83700",
+    "ranking": "97",
     "recent_wins": "7"
   },
-  "Johan Nikles": {
-    "name": "Johan Nikles",
-    "last_match_date": "20220516",
-    "elo_hard": "68300",
-    "elo_clay": "67842.7",
-    "elo_grass": "68300",
-    "ranking": "317",
+  "Cedrik Marcel Stebe": {
+    "name": "Cedrik Marcel Stebe",
+    "last_match_date": "20220207",
+    "elo_hard": "76502.9",
+    "elo_clay": "76900",
+    "elo_grass": "76900",
+    "ranking": "231",
     "recent_wins": "5"
   },
-  "Brayden Schnur": {
-    "name": "Brayden Schnur",
-    "last_match_date": "20220103",
-    "elo_hard": "75575.7",
-    "elo_clay": "76200",
-    "elo_grass": "76200",
-    "ranking": "238",
-    "recent_wins": "4"
-  },
-  "Federico Delbonis": {
-    "name": "Federico Delbonis",
-    "last_match_date": "20220829",
-    "elo_hard": "91515.5",
-    "elo_clay": "87580.8",
-    "elo_grass": "94134.6",
+  "Jozef Kovalik": {
+    "name": "Jozef Kovalik",
+    "last_match_date": "20230204",
+    "elo_hard": "80475.8",
+    "elo_clay": "81183.6",
+    "elo_grass": "81700",
     "ranking": "134",
-    "recent_wins": "0"
-  },
-  "Reilly Opelka": {
-    "name": "Reilly Opelka",
-    "last_match_date": "20220801",
-    "elo_hard": "95367",
-    "elo_clay": "94710.3",
-    "elo_grass": "95377.8",
-    "ranking": "17",
-    "recent_wins": "5"
-  },
-  "Alexander Bublik": {
-    "name": "Alexander Bublik",
-    "last_match_date": "20221031",
-    "elo_hard": "89701",
-    "elo_clay": "93246.9",
-    "elo_grass": "94585.8",
-    "ranking": "36",
-    "recent_wins": "9"
-  },
-  "Damir Dzumhur": {
-    "name": "Damir Dzumhur",
-    "last_match_date": "20220404",
-    "elo_hard": "82712.9",
-    "elo_clay": "83292.4",
-    "elo_grass": "83900",
-    "ranking": "145",
     "recent_wins": "3"
   },
-  "Gregoire Barrere": {
-    "name": "Gregoire Barrere",
-    "last_match_date": "20220919",
-    "elo_hard": "78781.9",
-    "elo_clay": "78177.2",
-    "elo_grass": "79100",
-    "ranking": "167",
-    "recent_wins": "4"
+  "Carlos Taberner": {
+    "name": "Carlos Taberner",
+    "last_match_date": "20221010",
+    "elo_hard": "88585.1",
+    "elo_clay": "85762.8",
+    "elo_grass": "88569",
+    "ranking": "130",
+    "recent_wins": "0"
   },
-  "Alexander Zverev": {
-    "name": "Alexander Zverev",
-    "last_match_date": "20220523",
-    "elo_hard": "97263.4",
-    "elo_clay": "98872.7",
-    "elo_grass": "99700",
-    "ranking": "3",
-    "recent_wins": "10"
-  },
-  "Pablo Carreno Busta": {
-    "name": "Pablo Carreno Busta",
-    "last_match_date": "20221031",
-    "elo_hard": "93425.8",
-    "elo_clay": "93219.3",
-    "elo_grass": "96720.3",
-    "ranking": "14",
-    "recent_wins": "10"
-  },
-  "Jan Lennard Struff": {
-    "name": "Jan Lennard Struff",
-    "last_match_date": "20220926",
-    "elo_hard": "91022.4",
-    "elo_clay": "94325.4",
-    "elo_grass": "93424.5",
-    "ranking": "132",
+  "Luca Van Assche": {
+    "name": "Luca Van Assche",
+    "last_match_date": "20230206",
+    "elo_hard": "74124.3",
+    "elo_clay": "75900",
+    "elo_grass": "75900",
+    "ranking": "145",
     "recent_wins": "2"
   },
-  "Ugo Humbert": {
-    "name": "Ugo Humbert",
-    "last_match_date": "20221024",
-    "elo_hard": "90044.4",
-    "elo_clay": "93706.3",
-    "elo_grass": "94059.3",
-    "ranking": "103",
+  "Emilio Nava": {
+    "name": "Emilio Nava",
+    "last_match_date": "20220919",
+    "elo_hard": "66596.7",
+    "elo_clay": "68800",
+    "elo_grass": "68800",
+    "ranking": "173",
+    "recent_wins": "2"
+  },
+  "Juncheng Shang": {
+    "name": "Juncheng Shang",
+    "last_match_date": "20230116",
+    "elo_hard": "31970",
+    "elo_clay": "33102.2",
+    "elo_grass": "33700",
+    "ranking": "0",
+    "recent_wins": "2"
+  },
+  "Matteo Arnaldi": {
+    "name": "Matteo Arnaldi",
+    "last_match_date": "20221107",
+    "elo_hard": "70655.8",
+    "elo_clay": "71889.1",
+    "elo_grass": "72500",
+    "ranking": "134",
     "recent_wins": "1"
   },
-  "Michael Mmoh": {
-    "name": "Michael Mmoh",
-    "last_match_date": "20220801",
-    "elo_hard": "76834.6",
-    "elo_clay": "75893.9",
-    "elo_grass": "77400",
-    "ranking": "162",
-    "recent_wins": "2"
+  "Pablo Cuevas": {
+    "name": "Pablo Cuevas",
+    "last_match_date": "20220523",
+    "elo_hard": "88997.1",
+    "elo_clay": "87521.4",
+    "elo_grass": "89600",
+    "ranking": "149",
+    "recent_wins": "3"
   },
-  "Yosuke Watanuki": {
-    "name": "Yosuke Watanuki",
-    "last_match_date": "20220801",
-    "elo_hard": "72961.8",
-    "elo_clay": "74168.1",
-    "elo_grass": "73700",
-    "ranking": "239",
+  "Dimitar Kuzmanov": {
+    "name": "Dimitar Kuzmanov",
+    "last_match_date": "20230102",
+    "elo_hard": "84109.2",
+    "elo_clay": "84200",
+    "elo_grass": "84200",
+    "ranking": "196",
     "recent_wins": "6"
   },
-  "Aleksandre Bakshi": {
-    "name": "Aleksandre Bakshi",
-    "last_match_date": "20220103",
-    "elo_hard": "1976.4",
-    "elo_clay": "2600",
-    "elo_grass": "2600",
-    "ranking": "974",
+  "Juan Ignacio Londero": {
+    "name": "Juan Ignacio Londero",
+    "last_match_date": "20220523",
+    "elo_hard": "85600",
+    "elo_clay": "83886.7",
+    "elo_grass": "85600",
+    "ranking": "142",
+    "recent_wins": "3"
+  },
+  "Alessandro Giannessi": {
+    "name": "Alessandro Giannessi",
+    "last_match_date": "20220523",
+    "elo_hard": "82700",
+    "elo_clay": "81916",
+    "elo_grass": "82700",
+    "ranking": "173",
     "recent_wins": "4"
   },
   "Kaichi Uchida": {
@@ -2573,41 +2033,1112 @@
     "ranking": "179",
     "recent_wins": "4"
   },
-  "Sebastian Ofner": {
-    "name": "Sebastian Ofner",
-    "last_match_date": "20220725",
-    "elo_hard": "78100",
-    "elo_clay": "77077.4",
-    "elo_grass": "78100",
-    "ranking": "235",
-    "recent_wins": "4"
-  },
-  "Juan Martin del Potro": {
-    "name": "Juan Martin del Potro",
-    "last_match_date": "20220207",
-    "elo_hard": "24700",
-    "elo_clay": "24118.1",
-    "elo_grass": "24700",
-    "ranking": "753",
-    "recent_wins": "4"
-  },
   "Cristian Garin": {
     "name": "Cristian Garin",
-    "last_match_date": "20221024",
-    "elo_hard": "92995",
-    "elo_clay": "91837.6",
-    "elo_grass": "96952.5",
-    "ranking": "86",
+    "last_match_date": "20230204",
+    "elo_hard": "94119.9",
+    "elo_clay": "91394.7",
+    "elo_grass": "96752.5",
+    "ranking": "102",
+    "recent_wins": "1"
+  },
+  "Christopher Rungkat": {
+    "name": "Christopher Rungkat",
+    "last_match_date": "20230204",
+    "elo_hard": "100200",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "6"
+  },
+  "Jaume Munar": {
+    "name": "Jaume Munar",
+    "last_match_date": "20230116",
+    "elo_hard": "83512.7",
+    "elo_clay": "88066.1",
+    "elo_grass": "90036",
+    "ranking": "64",
     "recent_wins": "0"
   },
-  "Zizou Bergs": {
-    "name": "Zizou Bergs",
-    "last_match_date": "20220627",
-    "elo_hard": "82538.1",
-    "elo_clay": "83100",
-    "elo_grass": "82495",
-    "ranking": "146",
+  "Camilo Ugo Carabelli": {
+    "name": "Camilo Ugo Carabelli",
+    "last_match_date": "20220523",
+    "elo_hard": "84500",
+    "elo_clay": "84102.9",
+    "elo_grass": "84500",
+    "ranking": "155",
+    "recent_wins": "5"
+  },
+  "Roberto Bautista Agut": {
+    "name": "Roberto Bautista Agut",
+    "last_match_date": "20230206",
+    "elo_hard": "91026.2",
+    "elo_clay": "96974",
+    "elo_grass": "98114.7",
+    "ranking": "24",
+    "recent_wins": "8"
+  },
+  "Giulio Zeppieri": {
+    "name": "Giulio Zeppieri",
+    "last_match_date": "20221010",
+    "elo_hard": "76535.6",
+    "elo_clay": "76341.5",
+    "elo_grass": "77300",
+    "ranking": "170",
+    "recent_wins": "4"
+  },
+  "Nick Chappell": {
+    "name": "Nick Chappell",
+    "last_match_date": "20220801",
+    "elo_hard": "49394.5",
+    "elo_clay": "50000",
+    "elo_grass": "50000",
+    "ranking": "500",
+    "recent_wins": "4"
+  },
+  "Sebastian Baez": {
+    "name": "Sebastian Baez",
+    "last_match_date": "20230206",
+    "elo_hard": "85169.5",
+    "elo_clay": "89386",
+    "elo_grass": "91573.5",
+    "ranking": "47",
+    "recent_wins": "4"
+  },
+  "Dominic Thiem": {
+    "name": "Dominic Thiem",
+    "last_match_date": "20230204",
+    "elo_hard": "91040.6",
+    "elo_clay": "90732",
+    "elo_grass": "94600",
+    "ranking": "99",
+    "recent_wins": "5"
+  },
+  "Emilio Gomez": {
+    "name": "Emilio Gomez",
+    "last_match_date": "20230206",
+    "elo_hard": "83050.9",
+    "elo_clay": "85100",
+    "elo_grass": "85100",
+    "ranking": "102",
     "recent_wins": "3"
+  },
+  "Albert Ramos": {
+    "name": "Albert Ramos",
+    "last_match_date": "20230206",
+    "elo_hard": "88394.3",
+    "elo_clay": "89427.6",
+    "elo_grass": "95446.7",
+    "ranking": "54",
+    "recent_wins": "2"
+  },
+  "Mahammad Abid": {
+    "name": "Mahammad Abid",
+    "last_match_date": "20230203",
+    "elo_hard": "99225",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Jie Cui": {
+    "name": "Jie Cui",
+    "last_match_date": "20230203",
+    "elo_hard": "8700",
+    "elo_clay": "8074.9",
+    "elo_grass": "8700",
+    "ranking": "913",
+    "recent_wins": "4"
+  },
+  "Marc Andrea Huesler": {
+    "name": "Marc Andrea Huesler",
+    "last_match_date": "20230203",
+    "elo_hard": "85660.4",
+    "elo_clay": "87617.2",
+    "elo_grass": "87255",
+    "ranking": "53",
+    "recent_wins": "7"
+  },
+  "Francesco Passaro": {
+    "name": "Francesco Passaro",
+    "last_match_date": "20221107",
+    "elo_hard": "61129.9",
+    "elo_clay": "62599.6",
+    "elo_grass": "63200",
+    "ranking": "119",
+    "recent_wins": "2"
+  },
+  "Rigele Te": {
+    "name": "Rigele Te",
+    "last_match_date": "20230203",
+    "elo_hard": "43200",
+    "elo_clay": "42574.9",
+    "elo_grass": "43200",
+    "ranking": "568",
+    "recent_wins": "4"
+  },
+  "Nikoloz Basilashvili": {
+    "name": "Nikoloz Basilashvili",
+    "last_match_date": "20230206",
+    "elo_hard": "88255.3",
+    "elo_clay": "93380.6",
+    "elo_grass": "96218.7",
+    "ranking": "87",
+    "recent_wins": "1"
+  },
+  "Nicolas Alvarez Varona": {
+    "name": "Nicolas Alvarez Varona",
+    "last_match_date": "20221010",
+    "elo_hard": "71110.5",
+    "elo_clay": "70895.1",
+    "elo_grass": "71500",
+    "ranking": "231",
+    "recent_wins": "4"
+  },
+  "Reilly Opelka": {
+    "name": "Reilly Opelka",
+    "last_match_date": "20220801",
+    "elo_hard": "97057.2",
+    "elo_clay": "95001.5",
+    "elo_grass": "95677.8",
+    "ranking": "17",
+    "recent_wins": "5"
+  },
+  "Luciano Darderi": {
+    "name": "Luciano Darderi",
+    "last_match_date": "20230206",
+    "elo_hard": "80000",
+    "elo_clay": "79669",
+    "elo_grass": "80000",
+    "ranking": "200",
+    "recent_wins": "5"
+  },
+  "Federico Delbonis": {
+    "name": "Federico Delbonis",
+    "last_match_date": "20230206",
+    "elo_hard": "94146.5",
+    "elo_clay": "88737.7",
+    "elo_grass": "94834.6",
+    "ranking": "131",
+    "recent_wins": "1"
+  },
+  "Andreas Seppi": {
+    "name": "Andreas Seppi",
+    "last_match_date": "20220606",
+    "elo_hard": "89327.1",
+    "elo_clay": "90000",
+    "elo_grass": "89406.3",
+    "ranking": "141",
+    "recent_wins": "4"
+  },
+  "Christopher Eubanks": {
+    "name": "Christopher Eubanks",
+    "last_match_date": "20230206",
+    "elo_hard": "79653.6",
+    "elo_clay": "83300",
+    "elo_grass": "82958.8",
+    "ranking": "104",
+    "recent_wins": "2"
+  },
+  "Stefan Kozlov": {
+    "name": "Stefan Kozlov",
+    "last_match_date": "20220919",
+    "elo_hard": "82296",
+    "elo_clay": "84900",
+    "elo_grass": "83646.4",
+    "ranking": "108",
+    "recent_wins": "1"
+  },
+  "Nicolas Mejia": {
+    "name": "Nicolas Mejia",
+    "last_match_date": "20230203",
+    "elo_hard": "74700",
+    "elo_clay": "74349.9",
+    "elo_grass": "74700",
+    "ranking": "253",
+    "recent_wins": "5"
+  },
+  "Jeremy Chardy": {
+    "name": "Jeremy Chardy",
+    "last_match_date": "20230116",
+    "elo_hard": "99335.6",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "5"
+  },
+  "Alex Molcan": {
+    "name": "Alex Molcan",
+    "last_match_date": "20230204",
+    "elo_hard": "85351.3",
+    "elo_clay": "91359.3",
+    "elo_grass": "91299.4",
+    "ranking": "55",
+    "recent_wins": "3"
+  },
+  "Thiago Monteiro": {
+    "name": "Thiago Monteiro",
+    "last_match_date": "20230203",
+    "elo_hard": "84066.5",
+    "elo_clay": "87186.2",
+    "elo_grass": "88326.8",
+    "ranking": "78",
+    "recent_wins": "1"
+  },
+  "Zhizhen Zhang": {
+    "name": "Zhizhen Zhang",
+    "last_match_date": "20230116",
+    "elo_hard": "83948.6",
+    "elo_clay": "86300",
+    "elo_grass": "86300",
+    "ranking": "96",
+    "recent_wins": "3"
+  },
+  "Nuno Borges": {
+    "name": "Nuno Borges",
+    "last_match_date": "20230204",
+    "elo_hard": "84849.2",
+    "elo_clay": "85014.4",
+    "elo_grass": "86278.5",
+    "ranking": "105",
+    "recent_wins": "0"
+  },
+  "Pablo Andujar": {
+    "name": "Pablo Andujar",
+    "last_match_date": "20230102",
+    "elo_hard": "90565.9",
+    "elo_clay": "89329.7",
+    "elo_grass": "91927.3",
+    "ranking": "121",
+    "recent_wins": "0"
+  },
+  "Sam Querrey": {
+    "name": "Sam Querrey",
+    "last_match_date": "20220829",
+    "elo_hard": "85911",
+    "elo_clay": "87571.2",
+    "elo_grass": "86144.2",
+    "ranking": "287",
+    "recent_wins": "0"
+  },
+  "Miomir Kecmanovic": {
+    "name": "Miomir Kecmanovic",
+    "last_match_date": "20230203",
+    "elo_hard": "86852.1",
+    "elo_clay": "90702.3",
+    "elo_grass": "91156.4",
+    "ranking": "34",
+    "recent_wins": "9"
+  },
+  "Alexey Vatutin": {
+    "name": "Alexey Vatutin",
+    "last_match_date": "20221010",
+    "elo_hard": "71433.5",
+    "elo_clay": "72100",
+    "elo_grass": "72100",
+    "ranking": "279",
+    "recent_wins": "4"
+  },
+  "Daniel Elahi Galan": {
+    "name": "Daniel Elahi Galan",
+    "last_match_date": "20230206",
+    "elo_hard": "86347.9",
+    "elo_clay": "85405.9",
+    "elo_grass": "88635.8",
+    "ranking": "83",
+    "recent_wins": "3"
+  },
+  "Federico Coria": {
+    "name": "Federico Coria",
+    "last_match_date": "20230206",
+    "elo_hard": "88974.4",
+    "elo_clay": "88471.5",
+    "elo_grass": "93032",
+    "ranking": "67",
+    "recent_wins": "2"
+  },
+  "Jordan Thompson": {
+    "name": "Jordan Thompson",
+    "last_match_date": "20230206",
+    "elo_hard": "86627",
+    "elo_clay": "89446.3",
+    "elo_grass": "89938",
+    "ranking": "84",
+    "recent_wins": "1"
+  },
+  "Pavel Kotov": {
+    "name": "Pavel Kotov",
+    "last_match_date": "20230116",
+    "elo_hard": "81229.5",
+    "elo_clay": "81837.8",
+    "elo_grass": "82800",
+    "ranking": "117",
+    "recent_wins": "2"
+  },
+  "Fabio Fognini": {
+    "name": "Fabio Fognini",
+    "last_match_date": "20230116",
+    "elo_hard": "89687.9",
+    "elo_clay": "91532.7",
+    "elo_grass": "95569.8",
+    "ranking": "57",
+    "recent_wins": "1"
+  },
+  "Marco Cecchinato": {
+    "name": "Marco Cecchinato",
+    "last_match_date": "20230206",
+    "elo_hard": "90569.4",
+    "elo_clay": "88346.1",
+    "elo_grass": "91000",
+    "ranking": "93",
+    "recent_wins": "4"
+  },
+  "Diego Schwartzman": {
+    "name": "Diego Schwartzman",
+    "last_match_date": "20230206",
+    "elo_hard": "91389.8",
+    "elo_clay": "93893.3",
+    "elo_grass": "96456.2",
+    "ranking": "28",
+    "recent_wins": "1"
+  },
+  "Malek Jaziri": {
+    "name": "Malek Jaziri",
+    "last_match_date": "20220404",
+    "elo_hard": "68514.1",
+    "elo_clay": "69085.9",
+    "elo_grass": "69700",
+    "ranking": "329",
+    "recent_wins": "2"
+  },
+  "Casper Ruud": {
+    "name": "Casper Ruud",
+    "last_match_date": "20230116",
+    "elo_hard": "92705.5",
+    "elo_clay": "97046",
+    "elo_grass": "97847.2",
+    "ranking": "3",
+    "recent_wins": "8"
+  },
+  "Soon Woo Kwon": {
+    "name": "Soon Woo Kwon",
+    "last_match_date": "20230204",
+    "elo_hard": "88691.2",
+    "elo_clay": "92095.7",
+    "elo_grass": "93446.4",
+    "ranking": "61",
+    "recent_wins": "6"
+  },
+  "Mikhail Kukushkin": {
+    "name": "Mikhail Kukushkin",
+    "last_match_date": "20221003",
+    "elo_hard": "81119",
+    "elo_clay": "82641.2",
+    "elo_grass": "82583.8",
+    "ranking": "221",
+    "recent_wins": "0"
+  },
+  "Seong Chan Hong": {
+    "name": "Seong Chan Hong",
+    "last_match_date": "20230204",
+    "elo_hard": "51946.6",
+    "elo_clay": "52900",
+    "elo_grass": "52900",
+    "ranking": "237",
+    "recent_wins": "4"
+  },
+  "Caleb Chakravarthi": {
+    "name": "Caleb Chakravarthi",
+    "last_match_date": "20220207",
+    "elo_hard": "99148.4",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Sebastian Korda": {
+    "name": "Sebastian Korda",
+    "last_match_date": "20230116",
+    "elo_hard": "92091.1",
+    "elo_clay": "93011.7",
+    "elo_grass": "94535.1",
+    "ranking": "31",
+    "recent_wins": "10"
+  },
+  "Thomas Fabbiano": {
+    "name": "Thomas Fabbiano",
+    "last_match_date": "20220214",
+    "elo_hard": "80200.9",
+    "elo_clay": "80800",
+    "elo_grass": "80800",
+    "ranking": "192",
+    "recent_wins": "4"
+  },
+  "Daniel Altmaier": {
+    "name": "Daniel Altmaier",
+    "last_match_date": "20230203",
+    "elo_hard": "85392",
+    "elo_clay": "87935.2",
+    "elo_grass": "89673",
+    "ranking": "91",
+    "recent_wins": "0"
+  },
+  "Yasutaka Uchiyama": {
+    "name": "Yasutaka Uchiyama",
+    "last_match_date": "20221003",
+    "elo_hard": "67997.6",
+    "elo_clay": "68600",
+    "elo_grass": "68600",
+    "ranking": "314",
+    "recent_wins": "4"
+  },
+  "Andrey Kuznetsov": {
+    "name": "Andrey Kuznetsov",
+    "last_match_date": "20220523",
+    "elo_hard": "77200",
+    "elo_clay": "76574.9",
+    "elo_grass": "77200",
+    "ranking": "228",
+    "recent_wins": "4"
+  },
+  "Marton Fucsovics": {
+    "name": "Marton Fucsovics",
+    "last_match_date": "20230203",
+    "elo_hard": "88978.2",
+    "elo_clay": "94998.8",
+    "elo_grass": "95925.2",
+    "ranking": "71",
+    "recent_wins": "2"
+  },
+  "Jannik Sinner": {
+    "name": "Jannik Sinner",
+    "last_match_date": "20230206",
+    "elo_hard": "96006.7",
+    "elo_clay": "98964",
+    "elo_grass": "98230.5",
+    "ranking": "17",
+    "recent_wins": "10"
+  },
+  "Dac Tien Nguyen": {
+    "name": "Dac Tien Nguyen",
+    "last_match_date": "20230204",
+    "elo_hard": "-86600.1",
+    "elo_clay": "-85900",
+    "elo_grass": "-85900",
+    "ranking": "1859",
+    "recent_wins": "4"
+  },
+  "Jiri Vesely": {
+    "name": "Jiri Vesely",
+    "last_match_date": "20220829",
+    "elo_hard": "87124.8",
+    "elo_clay": "86483.3",
+    "elo_grass": "87081.3",
+    "ranking": "68",
+    "recent_wins": "5"
+  },
+  "Dusan Lajovic": {
+    "name": "Dusan Lajovic",
+    "last_match_date": "20230206",
+    "elo_hard": "92345.3",
+    "elo_clay": "90890.3",
+    "elo_grass": "94823.2",
+    "ranking": "89",
+    "recent_wins": "1"
+  },
+  "Cameron Norrie": {
+    "name": "Cameron Norrie",
+    "last_match_date": "20230203",
+    "elo_hard": "93624.9",
+    "elo_clay": "96772.3",
+    "elo_grass": "97583",
+    "ranking": "11",
+    "recent_wins": "10"
+  },
+  "Daniel Evans": {
+    "name": "Daniel Evans",
+    "last_match_date": "20230203",
+    "elo_hard": "88668.4",
+    "elo_clay": "92232.2",
+    "elo_grass": "95215.6",
+    "ranking": "30",
+    "recent_wins": "4"
+  },
+  "Ricardas Berankis": {
+    "name": "Ricardas Berankis",
+    "last_match_date": "20230203",
+    "elo_hard": "89525.5",
+    "elo_clay": "88264.3",
+    "elo_grass": "89643.5",
+    "ranking": "193",
+    "recent_wins": "4"
+  },
+  "J J Wolf": {
+    "name": "J J Wolf",
+    "last_match_date": "20230206",
+    "elo_hard": "74105.1",
+    "elo_clay": "78603.1",
+    "elo_grass": "79100",
+    "ranking": "43",
+    "recent_wins": "10"
+  },
+  "Tommy Paul": {
+    "name": "Tommy Paul",
+    "last_match_date": "20230203",
+    "elo_hard": "90820.9",
+    "elo_clay": "92052.2",
+    "elo_grass": "94476.5",
+    "ranking": "19",
+    "recent_wins": "10"
+  },
+  "Elias Ymer": {
+    "name": "Elias Ymer",
+    "last_match_date": "20230203",
+    "elo_hard": "84950.9",
+    "elo_clay": "85111.3",
+    "elo_grass": "85586.6",
+    "ranking": "120",
+    "recent_wins": "3"
+  },
+  "Enzo Couacaud": {
+    "name": "Enzo Couacaud",
+    "last_match_date": "20230116",
+    "elo_hard": "78547.8",
+    "elo_clay": "79400",
+    "elo_grass": "78812",
+    "ranking": "191",
+    "recent_wins": "3"
+  },
+  "Liam Broady": {
+    "name": "Liam Broady",
+    "last_match_date": "20220926",
+    "elo_hard": "86115.6",
+    "elo_clay": "87900",
+    "elo_grass": "86483.4",
+    "ranking": "174",
+    "recent_wins": "3"
+  },
+  "Tennys Sandgren": {
+    "name": "Tennys Sandgren",
+    "last_match_date": "20220307",
+    "elo_hard": "81865.6",
+    "elo_clay": "83700",
+    "elo_grass": "83700",
+    "ranking": "153",
+    "recent_wins": "2"
+  },
+  "Joao Sousa": {
+    "name": "Joao Sousa",
+    "last_match_date": "20230204",
+    "elo_hard": "84843.8",
+    "elo_clay": "86120.3",
+    "elo_grass": "89373",
+    "ranking": "84",
+    "recent_wins": "0"
+  },
+  "Ivan Gakhov": {
+    "name": "Ivan Gakhov",
+    "last_match_date": "20220725",
+    "elo_hard": "68500",
+    "elo_clay": "67969.5",
+    "elo_grass": "68500",
+    "ranking": "315",
+    "recent_wins": "4"
+  },
+  "Felix Auger Aliassime": {
+    "name": "Felix Auger Aliassime",
+    "last_match_date": "20230116",
+    "elo_hard": "94541.5",
+    "elo_clay": "95820.3",
+    "elo_grass": "96887.1",
+    "ranking": "7",
+    "recent_wins": "9"
+  },
+  "Max Purcell": {
+    "name": "Max Purcell",
+    "last_match_date": "20230116",
+    "elo_hard": "82695.9",
+    "elo_clay": "83007.3",
+    "elo_grass": "82729.9",
+    "ranking": "205",
+    "recent_wins": "2"
+  },
+  "Frances Tiafoe": {
+    "name": "Frances Tiafoe",
+    "last_match_date": "20230206",
+    "elo_hard": "92235.4",
+    "elo_clay": "93822",
+    "elo_grass": "95388.4",
+    "ranking": "14",
+    "recent_wins": "9"
+  },
+  "Marco Trungelliti": {
+    "name": "Marco Trungelliti",
+    "last_match_date": "20221010",
+    "elo_hard": "75227.9",
+    "elo_clay": "75900",
+    "elo_grass": "75900",
+    "ranking": "241",
+    "recent_wins": "4"
+  },
+  "Laslo Djere": {
+    "name": "Laslo Djere",
+    "last_match_date": "20230203",
+    "elo_hard": "88846.1",
+    "elo_clay": "89951.3",
+    "elo_grass": "92507.4",
+    "ranking": "65",
+    "recent_wins": "3"
+  },
+  "Lorenzo Musetti": {
+    "name": "Lorenzo Musetti",
+    "last_match_date": "20230116",
+    "elo_hard": "86268",
+    "elo_clay": "92938.5",
+    "elo_grass": "92466.5",
+    "ranking": "19",
+    "recent_wins": "9"
+  },
+  "Arthur Rinderknech": {
+    "name": "Arthur Rinderknech",
+    "last_match_date": "20230206",
+    "elo_hard": "87359.3",
+    "elo_clay": "92136",
+    "elo_grass": "92853.8",
+    "ranking": "68",
+    "recent_wins": "3"
+  },
+  "Daniel Dutra Da Silva": {
+    "name": "Daniel Dutra Da Silva",
+    "last_match_date": "20220725",
+    "elo_hard": "78500",
+    "elo_clay": "77866.5",
+    "elo_grass": "78500",
+    "ranking": "215",
+    "recent_wins": "4"
+  },
+  "Denis Istomin": {
+    "name": "Denis Istomin",
+    "last_match_date": "20220214",
+    "elo_hard": "72893.5",
+    "elo_clay": "73300",
+    "elo_grass": "73300",
+    "ranking": "267",
+    "recent_wins": "5"
+  },
+  "Rafael Nadal": {
+    "name": "Rafael Nadal",
+    "last_match_date": "20230116",
+    "elo_hard": "95443.5",
+    "elo_clay": "99490.3",
+    "elo_grass": "99335.1",
+    "ranking": "2",
+    "recent_wins": "5"
+  },
+  "Jack Sock": {
+    "name": "Jack Sock",
+    "last_match_date": "20230206",
+    "elo_hard": "81687.9",
+    "elo_clay": "84738.1",
+    "elo_grass": "84765.9",
+    "ranking": "141",
+    "recent_wins": "2"
+  },
+  "Grigor Dimitrov": {
+    "name": "Grigor Dimitrov",
+    "last_match_date": "20230116",
+    "elo_hard": "90312.8",
+    "elo_clay": "95745",
+    "elo_grass": "96947.9",
+    "ranking": "28",
+    "recent_wins": "9"
+  },
+  "Mitchell Krueger": {
+    "name": "Mitchell Krueger",
+    "last_match_date": "20220919",
+    "elo_hard": "81549.5",
+    "elo_clay": "82820.6",
+    "elo_grass": "82977.4",
+    "ranking": "228",
+    "recent_wins": "2"
+  },
+  "David Goffin": {
+    "name": "David Goffin",
+    "last_match_date": "20230204",
+    "elo_hard": "84750",
+    "elo_clay": "94385.6",
+    "elo_grass": "94816.1",
+    "ranking": "41",
+    "recent_wins": "2"
+  },
+  "Taylor Fritz": {
+    "name": "Taylor Fritz",
+    "last_match_date": "20230206",
+    "elo_hard": "94050.9",
+    "elo_clay": "96577.6",
+    "elo_grass": "96307.6",
+    "ranking": "8",
+    "recent_wins": "10"
+  },
+  "Feliciano Lopez": {
+    "name": "Feliciano Lopez",
+    "last_match_date": "20221010",
+    "elo_hard": "87391.9",
+    "elo_clay": "88345.2",
+    "elo_grass": "87328",
+    "ranking": "415",
+    "recent_wins": "0"
+  },
+  "Brandon Nakashima": {
+    "name": "Brandon Nakashima",
+    "last_match_date": "20230116",
+    "elo_hard": "85817.1",
+    "elo_clay": "89902.2",
+    "elo_grass": "90934.8",
+    "ranking": "49",
+    "recent_wins": "8"
+  },
+  "Steve Johnson": {
+    "name": "Steve Johnson",
+    "last_match_date": "20230206",
+    "elo_hard": "85553.7",
+    "elo_clay": "89830.4",
+    "elo_grass": "89994.9",
+    "ranking": "120",
+    "recent_wins": "3"
+  },
+  "Mohamed Safwat": {
+    "name": "Mohamed Safwat",
+    "last_match_date": "20230203",
+    "elo_hard": "33400",
+    "elo_clay": "32900",
+    "elo_grass": "33400",
+    "ranking": "666",
+    "recent_wins": "5"
+  },
+  "Maxime Cressy": {
+    "name": "Maxime Cressy",
+    "last_match_date": "20230206",
+    "elo_hard": "84697.8",
+    "elo_clay": "91023.1",
+    "elo_grass": "94074.7",
+    "ranking": "51",
+    "recent_wins": "8"
+  },
+  "Roberto Carballes Baena": {
+    "name": "Roberto Carballes Baena",
+    "last_match_date": "20230206",
+    "elo_hard": "88741.3",
+    "elo_clay": "88216.3",
+    "elo_grass": "91554.5",
+    "ranking": "77",
+    "recent_wins": "1"
+  },
+  "Benoit Paire": {
+    "name": "Benoit Paire",
+    "last_match_date": "20220829",
+    "elo_hard": "90470.2",
+    "elo_clay": "90334.9",
+    "elo_grass": "93505.1",
+    "ranking": "173",
+    "recent_wins": "0"
+  },
+  "Mackenzie Mcdonald": {
+    "name": "Mackenzie Mcdonald",
+    "last_match_date": "20230203",
+    "elo_hard": "87295.3",
+    "elo_clay": "92997.5",
+    "elo_grass": "92912.4",
+    "ranking": "63",
+    "recent_wins": "5"
+  },
+  "John Millman": {
+    "name": "John Millman",
+    "last_match_date": "20230116",
+    "elo_hard": "87363.8",
+    "elo_clay": "88720.3",
+    "elo_grass": "90144",
+    "ranking": "140",
+    "recent_wins": "1"
+  },
+  "Beibit Zhukayev": {
+    "name": "Beibit Zhukayev",
+    "last_match_date": "20221003",
+    "elo_hard": "66707.1",
+    "elo_clay": "67300",
+    "elo_grass": "67300",
+    "ranking": "327",
+    "recent_wins": "4"
+  },
+  "Tallon Griekspoor": {
+    "name": "Tallon Griekspoor",
+    "last_match_date": "20230204",
+    "elo_hard": "88674.9",
+    "elo_clay": "90747.9",
+    "elo_grass": "92093.8",
+    "ranking": "59",
+    "recent_wins": "7"
+  },
+  "Oscar Otte": {
+    "name": "Oscar Otte",
+    "last_match_date": "20230203",
+    "elo_hard": "81908.6",
+    "elo_clay": "89439.3",
+    "elo_grass": "91376.6",
+    "ranking": "80",
+    "recent_wins": "0"
+  },
+  "Pedro Martinez": {
+    "name": "Pedro Martinez",
+    "last_match_date": "20230206",
+    "elo_hard": "87194.4",
+    "elo_clay": "88248.6",
+    "elo_grass": "91835.3",
+    "ranking": "72",
+    "recent_wins": "0"
+  },
+  "Lucas Pouille": {
+    "name": "Lucas Pouille",
+    "last_match_date": "20220523",
+    "elo_hard": "84514.4",
+    "elo_clay": "83019.9",
+    "elo_grass": "84600",
+    "ranking": "162",
+    "recent_wins": "4"
+  },
+  "Max Hans Rehberg": {
+    "name": "Max Hans Rehberg",
+    "last_match_date": "20220718",
+    "elo_hard": "-6700",
+    "elo_clay": "-7902.61",
+    "elo_grass": "-6700",
+    "ranking": "830",
+    "recent_wins": "3"
+  },
+  "Aziz Dougaz": {
+    "name": "Aziz Dougaz",
+    "last_match_date": "20230203",
+    "elo_hard": "70725",
+    "elo_clay": "71500",
+    "elo_grass": "71500",
+    "ranking": "285",
+    "recent_wins": "4"
+  },
+  "Duje Ajdukovic": {
+    "name": "Duje Ajdukovic",
+    "last_match_date": "20220725",
+    "elo_hard": "72400",
+    "elo_clay": "71803.7",
+    "elo_grass": "72400",
+    "ranking": "276",
+    "recent_wins": "4"
+  },
+  "Alex De Minaur": {
+    "name": "Alex De Minaur",
+    "last_match_date": "20230116",
+    "elo_hard": "91075.1",
+    "elo_clay": "93486.4",
+    "elo_grass": "94900.9",
+    "ranking": "24",
+    "recent_wins": "9"
+  },
+  "Filip Krajinovic": {
+    "name": "Filip Krajinovic",
+    "last_match_date": "20230206",
+    "elo_hard": "91506.7",
+    "elo_clay": "93843.7",
+    "elo_grass": "95941",
+    "ranking": "71",
+    "recent_wins": "5"
+  },
+  "Michail Pervolarakis": {
+    "name": "Michail Pervolarakis",
+    "last_match_date": "20230102",
+    "elo_hard": "60913.4",
+    "elo_clay": "62300",
+    "elo_grass": "62300",
+    "ranking": "506",
+    "recent_wins": "3"
+  },
+  "Yoshihito Nishioka": {
+    "name": "Yoshihito Nishioka",
+    "last_match_date": "20230116",
+    "elo_hard": "86161.5",
+    "elo_clay": "87941.6",
+    "elo_grass": "88598.8",
+    "ranking": "33",
+    "recent_wins": "9"
+  },
+  "Peter Gojowczyk": {
+    "name": "Peter Gojowczyk",
+    "last_match_date": "20220829",
+    "elo_hard": "86393.8",
+    "elo_clay": "89674.9",
+    "elo_grass": "89144",
+    "ranking": "108",
+    "recent_wins": "0"
+  },
+  "Christopher Oconnell": {
+    "name": "Christopher Oconnell",
+    "last_match_date": "20230116",
+    "elo_hard": "81163.8",
+    "elo_clay": "84105.3",
+    "elo_grass": "84612.4",
+    "ranking": "80",
+    "recent_wins": "0"
+  },
+  "Francisco Cerundolo": {
+    "name": "Francisco Cerundolo",
+    "last_match_date": "20230204",
+    "elo_hard": "83859.5",
+    "elo_clay": "89009.8",
+    "elo_grass": "88221.5",
+    "ranking": "31",
+    "recent_wins": "6"
+  },
+  "Vasek Pospisil": {
+    "name": "Vasek Pospisil",
+    "last_match_date": "20230116",
+    "elo_hard": "83450.3",
+    "elo_clay": "85000",
+    "elo_grass": "85000",
+    "ranking": "99",
+    "recent_wins": "5"
+  },
+  "Elliot Benchetrit": {
+    "name": "Elliot Benchetrit",
+    "last_match_date": "20220404",
+    "elo_hard": "56400",
+    "elo_clay": "55786",
+    "elo_grass": "56400",
+    "ranking": "436",
+    "recent_wins": "4"
+  },
+  "Blaise Bicknell": {
+    "name": "Blaise Bicknell",
+    "last_match_date": "20230204",
+    "elo_hard": "23275.1",
+    "elo_clay": "23100",
+    "elo_grass": "23100",
+    "ranking": "769",
+    "recent_wins": "6"
+  },
+  "Guido Pella": {
+    "name": "Guido Pella",
+    "last_match_date": "20230206",
+    "elo_hard": "99241.4",
+    "elo_clay": "99662.9",
+    "elo_grass": "100000",
+    "ranking": "1018",
+    "recent_wins": "4"
+  },
+  "Nicolas Kicker": {
+    "name": "Nicolas Kicker",
+    "last_match_date": "20220221",
+    "elo_hard": "79700",
+    "elo_clay": "79181",
+    "elo_grass": "79700",
+    "ranking": "203",
+    "recent_wins": "4"
+  },
+  "Adrian Mannarino": {
+    "name": "Adrian Mannarino",
+    "last_match_date": "20230203",
+    "elo_hard": "85296.2",
+    "elo_clay": "92549.7",
+    "elo_grass": "92441.9",
+    "ranking": "58",
+    "recent_wins": "5"
+  },
+  "Marin Cilic": {
+    "name": "Marin Cilic",
+    "last_match_date": "20230102",
+    "elo_hard": "91341.5",
+    "elo_clay": "95941",
+    "elo_grass": "97250.7",
+    "ranking": "17",
+    "recent_wins": "8"
+  },
+  "Muhammad Shoaib": {
+    "name": "Muhammad Shoaib",
+    "last_match_date": "20230203",
+    "elo_hard": "99150",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Constant Lestienne": {
+    "name": "Constant Lestienne",
+    "last_match_date": "20230206",
+    "elo_hard": "88958.5",
+    "elo_clay": "92400",
+    "elo_grass": "92400",
+    "ranking": "48",
+    "recent_wins": "7"
+  },
+  "Thiago Seyboth Wild": {
+    "name": "Thiago Seyboth Wild",
+    "last_match_date": "20220221",
+    "elo_hard": "86500",
+    "elo_clay": "85912.6",
+    "elo_grass": "86500",
+    "ranking": "135",
+    "recent_wins": "5"
+  },
+  "Jiri Lehecka": {
+    "name": "Jiri Lehecka",
+    "last_match_date": "20230204",
+    "elo_hard": "82159.1",
+    "elo_clay": "83094.4",
+    "elo_grass": "85075.4",
+    "ranking": "39",
+    "recent_wins": "7"
+  },
+  "Jenson Brooksby": {
+    "name": "Jenson Brooksby",
+    "last_match_date": "20230116",
+    "elo_hard": "88427.2",
+    "elo_clay": "92128",
+    "elo_grass": "92226.9",
+    "ranking": "39",
+    "recent_wins": "9"
+  },
+  "Yuta Shimizu": {
+    "name": "Yuta Shimizu",
+    "last_match_date": "20221003",
+    "elo_hard": "54289.8",
+    "elo_clay": "54900",
+    "elo_grass": "54900",
+    "ranking": "451",
+    "recent_wins": "4"
+  },
+  "Mikael Ymer": {
+    "name": "Mikael Ymer",
+    "last_match_date": "20230203",
+    "elo_hard": "87058",
+    "elo_clay": "90298.5",
+    "elo_grass": "92164.4",
+    "ranking": "60",
+    "recent_wins": "6"
+  },
+  "Stefanos Tsitsipas": {
+    "name": "Stefanos Tsitsipas",
+    "last_match_date": "20230116",
+    "elo_hard": "93649.2",
+    "elo_clay": "99184.9",
+    "elo_grass": "97484.3",
+    "ranking": "4",
+    "recent_wins": "9"
+  },
+  "Henri Laaksonen": {
+    "name": "Henri Laaksonen",
+    "last_match_date": "20220919",
+    "elo_hard": "87123.3",
+    "elo_clay": "89298.5",
+    "elo_grass": "90741.6",
+    "ranking": "125",
+    "recent_wins": "0"
   },
   "William Blumberg": {
     "name": "William Blumberg",
@@ -2621,136 +3152,379 @@
   "James Duckworth": {
     "name": "James Duckworth",
     "last_match_date": "20221003",
-    "elo_hard": "90074.8",
-    "elo_clay": "93781.1",
-    "elo_grass": "92777.3",
+    "elo_hard": "90058.6",
+    "elo_clay": "91669.8",
+    "elo_grass": "90677.3",
     "ranking": "109",
     "recent_wins": "1"
   },
-  "Viktor Durasovic": {
-    "name": "Viktor Durasovic",
-    "last_match_date": "20220110",
-    "elo_hard": "63090.5",
-    "elo_clay": "65500",
-    "elo_grass": "65500",
-    "ranking": "345",
-    "recent_wins": "1"
+  "Zizou Bergs": {
+    "name": "Zizou Bergs",
+    "last_match_date": "20230204",
+    "elo_hard": "79869.2",
+    "elo_clay": "83100",
+    "elo_grass": "82495",
+    "ranking": "115",
+    "recent_wins": "0"
+  },
+  "Altug Celikbilek": {
+    "name": "Altug Celikbilek",
+    "last_match_date": "20230203",
+    "elo_hard": "76827.5",
+    "elo_clay": "77000",
+    "elo_grass": "77000",
+    "ranking": "205",
+    "recent_wins": "6"
+  },
+  "Marcos Giron": {
+    "name": "Marcos Giron",
+    "last_match_date": "20230206",
+    "elo_hard": "84423.1",
+    "elo_clay": "89159.6",
+    "elo_grass": "91221",
+    "ranking": "55",
+    "recent_wins": "4"
+  },
+  "Jurij Rodionov": {
+    "name": "Jurij Rodionov",
+    "last_match_date": "20221024",
+    "elo_hard": "83794.1",
+    "elo_clay": "84206.5",
+    "elo_grass": "84110.3",
+    "ranking": "130",
+    "recent_wins": "3"
+  },
+  "Fernando Verdasco": {
+    "name": "Fernando Verdasco",
+    "last_match_date": "20230206",
+    "elo_hard": "78665.5",
+    "elo_clay": "82146",
+    "elo_grass": "82182.7",
+    "ranking": "118",
+    "recent_wins": "0"
+  },
+  "Alex Rybakov": {
+    "name": "Alex Rybakov",
+    "last_match_date": "20230206",
+    "elo_hard": "61623.6",
+    "elo_clay": "62200",
+    "elo_grass": "62200",
+    "ranking": "378",
+    "recent_wins": "4"
   },
   "Lorenzo Sonego": {
     "name": "Lorenzo Sonego",
-    "last_match_date": "20221031",
-    "elo_hard": "90714.6",
-    "elo_clay": "91174.1",
-    "elo_grass": "95395.5",
-    "ranking": "51",
-    "recent_wins": "1"
-  },
-  "Aleksandre Metreveli": {
-    "name": "Aleksandre Metreveli",
-    "last_match_date": "20220103",
-    "elo_hard": "41186.4",
-    "elo_clay": "43000",
-    "elo_grass": "43000",
-    "ranking": "570",
+    "last_match_date": "20230206",
+    "elo_hard": "90877.7",
+    "elo_clay": "92691.6",
+    "elo_grass": "95995.5",
+    "ranking": "56",
     "recent_wins": "2"
+  },
+  "Hugo Gaston": {
+    "name": "Hugo Gaston",
+    "last_match_date": "20230206",
+    "elo_hard": "88454.9",
+    "elo_clay": "90214.5",
+    "elo_grass": "92169.9",
+    "ranking": "101",
+    "recent_wins": "0"
+  },
+  "Manuel Guinard": {
+    "name": "Manuel Guinard",
+    "last_match_date": "20221017",
+    "elo_hard": "83745.1",
+    "elo_clay": "83236.8",
+    "elo_grass": "84800",
+    "ranking": "148",
+    "recent_wins": "3"
   },
   "Felipe Meligeni Alves": {
     "name": "Felipe Meligeni Alves",
-    "last_match_date": "20220214",
-    "elo_hard": "77600",
+    "last_match_date": "20230102",
+    "elo_hard": "77116.5",
     "elo_clay": "76919",
     "elo_grass": "77600",
-    "ranking": "224",
+    "ranking": "166",
     "recent_wins": "4"
   },
   "Jason Kubler": {
     "name": "Jason Kubler",
-    "last_match_date": "20221017",
-    "elo_hard": "82256.8",
-    "elo_clay": "83692.7",
+    "last_match_date": "20230116",
+    "elo_hard": "82213.9",
+    "elo_clay": "83664.9",
     "elo_grass": "84006.3",
-    "ranking": "102",
-    "recent_wins": "8"
+    "ranking": "84",
+    "recent_wins": "9"
   },
   "Matteo Berrettini": {
     "name": "Matteo Berrettini",
-    "last_match_date": "20221017",
-    "elo_hard": "95652.5",
-    "elo_clay": "98490",
-    "elo_grass": "100288",
-    "ranking": "16",
-    "recent_wins": "10"
+    "last_match_date": "20230116",
+    "elo_hard": "95570.1",
+    "elo_clay": "98590",
+    "elo_grass": "100388",
+    "ranking": "14",
+    "recent_wins": "9"
   },
-  "Daniil Medvedev": {
-    "name": "Daniil Medvedev",
-    "last_match_date": "20221114",
-    "elo_hard": "96151",
-    "elo_clay": "98723.7",
-    "elo_grass": "98588.5",
-    "ranking": "5",
-    "recent_wins": "6"
-  },
-  "Jay Clarke": {
-    "name": "Jay Clarke",
-    "last_match_date": "20220627",
-    "elo_hard": "79794.1",
-    "elo_clay": "80400",
-    "elo_grass": "79053.6",
-    "ranking": "156",
+  "Alexei Popyrin": {
+    "name": "Alexei Popyrin",
+    "last_match_date": "20230116",
+    "elo_hard": "86955.4",
+    "elo_clay": "92774.9",
+    "elo_grass": "92143.2",
+    "ranking": "113",
     "recent_wins": "2"
+  },
+  "Kenneth Raisma": {
+    "name": "Kenneth Raisma",
+    "last_match_date": "20230204",
+    "elo_hard": "-64675.1",
+    "elo_clay": "-64000",
+    "elo_grass": "-64000",
+    "ranking": "1640",
+    "recent_wins": "4"
+  },
+  "Facundo Bagnis": {
+    "name": "Facundo Bagnis",
+    "last_match_date": "20230204",
+    "elo_hard": "89009.2",
+    "elo_clay": "89924.4",
+    "elo_grass": "91554.7",
+    "ranking": "88",
+    "recent_wins": "0"
+  },
+  "Jo-Wilfried Tsonga": {
+    "name": "Jo-Wilfried Tsonga",
+    "last_match_date": "20220523",
+    "elo_hard": "73902.8",
+    "elo_clay": "73436.3",
+    "elo_grass": "75300",
+    "ranking": "297",
+    "recent_wins": "0"
+  },
+  "Kristjan Tamm": {
+    "name": "Kristjan Tamm",
+    "last_match_date": "20230204",
+    "elo_hard": "32925",
+    "elo_clay": "33700",
+    "elo_grass": "33700",
+    "ranking": "663",
+    "recent_wins": "4"
+  },
+  "Maximilian Marterer": {
+    "name": "Maximilian Marterer",
+    "last_match_date": "20230102",
+    "elo_hard": "82130.8",
+    "elo_clay": "82800",
+    "elo_grass": "82291.3",
+    "ranking": "159",
+    "recent_wins": "5"
+  },
+  "Lucas Catarina": {
+    "name": "Lucas Catarina",
+    "last_match_date": "20220411",
+    "elo_hard": "57000",
+    "elo_clay": "56471.4",
+    "elo_grass": "57000",
+    "ranking": "430",
+    "recent_wins": "4"
+  },
+  "Amir Milushev": {
+    "name": "Amir Milushev",
+    "last_match_date": "20230203",
+    "elo_hard": "99225",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
+  },
+  "Thanasi Kokkinakis": {
+    "name": "Thanasi Kokkinakis",
+    "last_match_date": "20230116",
+    "elo_hard": "85369.9",
+    "elo_clay": "89886.3",
+    "elo_grass": "90152.3",
+    "ranking": "159",
+    "recent_wins": "3"
+  },
+  "Egor Gerasimov": {
+    "name": "Egor Gerasimov",
+    "last_match_date": "20220425",
+    "elo_hard": "86233.1",
+    "elo_clay": "86781",
+    "elo_grass": "87400",
+    "ranking": "150",
+    "recent_wins": "3"
   },
   "Santiago Fa Rodriguez Taverna": {
     "name": "Santiago Fa Rodriguez Taverna",
     "last_match_date": "20220523",
     "elo_hard": "79900",
-    "elo_clay": "79291.7",
+    "elo_clay": "79271.9",
     "elo_grass": "79900",
     "ranking": "201",
     "recent_wins": "4"
   },
   "Hubert Hurkacz": {
     "name": "Hubert Hurkacz",
+    "last_match_date": "20230116",
+    "elo_hard": "92148.3",
+    "elo_clay": "97316.6",
+    "elo_grass": "98204.5",
+    "ranking": "11",
+    "recent_wins": "9"
+  },
+  "Ben Shelton": {
+    "name": "Ben Shelton",
+    "last_match_date": "20230116",
+    "elo_hard": "70581.2",
+    "elo_clay": "71900",
+    "elo_grass": "71900",
+    "ranking": "89",
+    "recent_wins": "8"
+  },
+  "Botic Van De Zandschulp": {
+    "name": "Botic Van De Zandschulp",
+    "last_match_date": "20230116",
+    "elo_hard": "86120",
+    "elo_clay": "92216.5",
+    "elo_grass": "93072.5",
+    "ranking": "34",
+    "recent_wins": "8"
+  },
+  "Lloyd Harris": {
+    "name": "Lloyd Harris",
+    "last_match_date": "20230116",
+    "elo_hard": "93550.3",
+    "elo_clay": "93514.4",
+    "elo_grass": "96500",
+    "ranking": "186",
+    "recent_wins": "1"
+  },
+  "Johan Nikles": {
+    "name": "Johan Nikles",
+    "last_match_date": "20220516",
+    "elo_hard": "68300",
+    "elo_clay": "67842.7",
+    "elo_grass": "68300",
+    "ranking": "317",
+    "recent_wins": "5"
+  },
+  "Andy Murray": {
+    "name": "Andy Murray",
+    "last_match_date": "20230116",
+    "elo_hard": "83239.4",
+    "elo_clay": "90277",
+    "elo_grass": "90053.1",
+    "ranking": "66",
+    "recent_wins": "8"
+  },
+  "Carlos Alcaraz": {
+    "name": "Carlos Alcaraz",
     "last_match_date": "20221031",
-    "elo_hard": "92865.3",
-    "elo_clay": "97602.6",
-    "elo_grass": "98404.5",
-    "ranking": "10",
+    "elo_hard": "97092.7",
+    "elo_clay": "98024.4",
+    "elo_grass": "96820.4",
+    "ranking": "1",
     "recent_wins": "10"
   },
-  "Giulio Zeppieri": {
-    "name": "Giulio Zeppieri",
-    "last_match_date": "20221010",
-    "elo_hard": "76535.6",
-    "elo_clay": "76341.2",
-    "elo_grass": "77300",
-    "ranking": "170",
-    "recent_wins": "4"
+  "Andres Martin": {
+    "name": "Andres Martin",
+    "last_match_date": "20220725",
+    "elo_hard": "26086.8",
+    "elo_clay": "26400",
+    "elo_grass": "26400",
+    "ranking": "736",
+    "recent_wins": "5"
   },
-  "Roberto Bautista Agut": {
-    "name": "Roberto Bautista Agut",
-    "last_match_date": "20221031",
-    "elo_hard": "91613.7",
-    "elo_clay": "96674",
-    "elo_grass": "97069.4",
-    "ranking": "20",
+  "Borna Gojo": {
+    "name": "Borna Gojo",
+    "last_match_date": "20230204",
+    "elo_hard": "77669.6",
+    "elo_clay": "77355.1",
+    "elo_grass": "77700",
+    "ranking": "121",
+    "recent_wins": "8"
+  },
+  "Emil Ruusuvuori": {
+    "name": "Emil Ruusuvuori",
+    "last_match_date": "20230204",
+    "elo_hard": "85262.3",
+    "elo_clay": "89029.8",
+    "elo_grass": "91027.3",
+    "ranking": "43",
+    "recent_wins": "5"
+  },
+  "Aslan Karatsev": {
+    "name": "Aslan Karatsev",
+    "last_match_date": "20230206",
+    "elo_hard": "86888.3",
+    "elo_clay": "93045.3",
+    "elo_grass": "97483.5",
+    "ranking": "95",
+    "recent_wins": "1"
+  },
+  "Ugo Humbert": {
+    "name": "Ugo Humbert",
+    "last_match_date": "20230203",
+    "elo_hard": "91413.6",
+    "elo_clay": "93085.2",
+    "elo_grass": "93459.3",
+    "ranking": "86",
+    "recent_wins": "3"
+  },
+  "Pablo Carreno Busta": {
+    "name": "Pablo Carreno Busta",
+    "last_match_date": "20230116",
+    "elo_hard": "92750.7",
+    "elo_clay": "93409",
+    "elo_grass": "96920.3",
+    "ranking": "15",
     "recent_wins": "9"
+  },
+  "Bernabe Zapata Miralles": {
+    "name": "Bernabe Zapata Miralles",
+    "last_match_date": "20230206",
+    "elo_hard": "82382.8",
+    "elo_clay": "82679.6",
+    "elo_grass": "86416.9",
+    "ranking": "76",
+    "recent_wins": "1"
+  },
+  "Liam Krall": {
+    "name": "Liam Krall",
+    "last_match_date": "20230206",
+    "elo_hard": "99271.8",
+    "elo_clay": "100000",
+    "elo_grass": "100000",
+    "ranking": "0",
+    "recent_wins": "4"
   },
   "Zachary Svajda": {
     "name": "Zachary Svajda",
-    "last_match_date": "20220919",
-    "elo_hard": "58310.1",
+    "last_match_date": "20230206",
+    "elo_hard": "57712.5",
     "elo_clay": "58900",
     "elo_grass": "58900",
-    "ranking": "411",
-    "recent_wins": "4"
+    "ranking": "265",
+    "recent_wins": "3"
   },
   "Denis Shapovalov": {
     "name": "Denis Shapovalov",
-    "last_match_date": "20221031",
-    "elo_hard": "91597.5",
-    "elo_clay": "96221.9",
-    "elo_grass": "95769.9",
-    "ranking": "16",
-    "recent_wins": "10"
+    "last_match_date": "20230206",
+    "elo_hard": "90767.4",
+    "elo_clay": "96415.4",
+    "elo_grass": "95969.9",
+    "ranking": "27",
+    "recent_wins": "8"
+  },
+  "Andrey Rublev": {
+    "name": "Andrey Rublev",
+    "last_match_date": "20230116",
+    "elo_hard": "94407.8",
+    "elo_clay": "96679.5",
+    "elo_grass": "98604.1",
+    "ranking": "6",
+    "recent_wins": "9"
   }
 }

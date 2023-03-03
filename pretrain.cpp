@@ -328,7 +328,7 @@ class Prediction {
 int main() {
     std::ios::sync_with_stdio(false);
 
-    string train_file = "2022_data.csv";
+    string train_file = "past_year_data.csv";
     string csv_file_out = "player_data.csv";
 
     Prediction *p = new Prediction;
