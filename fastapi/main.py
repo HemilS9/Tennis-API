@@ -24,30 +24,31 @@ def read_player_json():
         data = json.load(player_json)
     return data
 
+def multiplier(player_data, name: str):
+    mult = 1.0
+    mult += (0.025 * (int(player_data[name]["recent_wins"]) / 10))
+    return mult
+
 def determine_winner(name1, name2, surface):
     # Load player data from the JSON
     player_data = read_player_json()
 
     # Determine the winner
     if (surface.lower() == "hard"):
-        # print(name1, ": ", player_data[name1]["elo_hard"])
-        # print(name2, ": ", player_data[name2]["elo_hard"])
-        if (float(player_data[name1]["elo_hard"]) > float(player_data[name2]["elo_hard"])):
-            return {"Winner" : name1}
-        else:
-            return {"Winner" : name2}
+        player1_elo: float = float(player_data[name1]["elo_hard"]) * multiplier(player_data, name1)
+        player2_elo: float = float(player_data[name2]["elo_hard"]) * multiplier(player_data, name2)
+        return {"Winner" : name1} if (player1_elo > player2_elo) else {"Winner" : name2}
         
     elif (surface.lower() == "clay"):
-        if (float(player_data[name1]["elo_clay"]) > float(player_data[name2]["elo_clay"])):
-            return {"Winner" : name1}
-        else:
-            return {"Winner" : name2}
+        player1_elo: float = float(player_data[name1]["elo_clay"]) * multiplier(player_data, name1)
+        player2_elo: float = float(player_data[name2]["elo_clay"]) * multiplier(player_data, name2)
+        return {"Winner" : name1} if (player1_elo > player2_elo) else {"Winner" : name2}
         
     elif (surface.lower() == "grass"):
-        if (float(player_data[name1]["elo_grass"]) > float(player_data[name2]["elo_grass"])):
-            return {"Winner" : name1}
-        else:
-            return {"Winner" : name2}
+        player1_elo: float = float(player_data[name1]["elo_grass"]) * multiplier(player_data, name1)
+        player2_elo: float = float(player_data[name2]["elo_grass"]) * multiplier(player_data, name2)
+        return {"Winner" : name1} if (player1_elo > player2_elo) else {"Winner" : name2}
+        
     else:
         return {"Error": "Invalid surface"}
 
