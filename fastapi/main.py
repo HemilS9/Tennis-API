@@ -1,4 +1,3 @@
-# from typing import Union
 from fastapi import FastAPI
 import json
 
@@ -51,6 +50,7 @@ def determine_winner(name1, name2, surface):
         
     else:
         return {"Error": "Invalid surface"}
+
 
 # ROUTES
 
