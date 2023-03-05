@@ -8,11 +8,10 @@ This API returns the predicted winner of an ATP tennis match when given the name
 - Install fastapi and uvicorn: `pip install fastapi` and `pip install uvicorn`
 
 ### Calling the API
-Enter the following commands in the terminal:
+- Enter the following commands in the terminal:
     - `cd fastapi`
     - `source myenv/bin/activate`
     - `uvicorn main:app --reload`
-
 - Navigate to `localhost:8000` on your browser
 - Change the URL to: `localhost:8000/Player 1's Name/Player 2's Name/surface`
 - When you're finished, deactivate your virtual environment with `deactivate`
