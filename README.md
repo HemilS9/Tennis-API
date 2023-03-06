@@ -13,7 +13,7 @@ This API returns the predicted winner of an ATP tennis match when given the name
     - `source myenv/bin/activate`
     - `uvicorn main:app --reload`
 - Navigate to `localhost:8000` on your browser
-- Change the URL to: `localhost:8000/Player 1's Name/Player 2's Name/surface`
+- Change the URL to: `localhost:8000/predict/?player1=First%20Last&player2=First%20Last&surface=surface_here`
 - When you're finished, deactivate your virtual environment with `deactivate`
 
 ### Add Query Parameters!
