@@ -59,11 +59,11 @@ def read_root():
     return {"Hello": "World"}
 
 
-@app.get("/{name1}/{name2}/{surface}")
-def return_winner(name1, name2, surface):
+@app.get("/predict/")
+def return_winner(player1: str, player2: str, surface: str):
     # Error check player names
-    if (not valid_names(name1, name2)):
+    if (not valid_names(player1, player2)):
         return {"Error": "Invalid player name"}
 
     # Determine the winner
-    return determine_winner(name1, name2, surface)
+    return determine_winner(player1, player2, surface)
