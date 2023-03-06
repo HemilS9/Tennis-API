@@ -10,7 +10,7 @@ class Player {
     double elo_hard;
     double elo_clay;
     double elo_grass;
-    int ranking;
+    int ranking = -1;
     int recent_wins;
     
     friend class Prediction;
