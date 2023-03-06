@@ -9,8 +9,9 @@ def csv_to_json(csvFile, jsonFile):
     with open(csvFile, 'r') as inputCSV:
         reader = csv.DictReader(inputCSV)
         for row in reader:
-            key = row['name']
-            my_json[key] = row 
+            if (row['ranking'] != '0'):
+                key = row['name']
+                my_json[key] = row 
 
     with open(jsonFile,'w') as jsonObj:
         jsonObj.write(json.dumps(my_json, indent=2))
