@@ -278,6 +278,9 @@ class Prediction {
             if (score.find("RET") != std::string::npos) {
                 continue;
             }
+            if (!w_rank || !l_rank) {
+                continue;
+            }
             
             // instantiate match data from csv data
             Match *m = new Match(surface, winner_name, loser_name, score, date, time, w_ace, w_df,
@@ -328,7 +331,7 @@ class Prediction {
 int main() {
     std::ios::sync_with_stdio(false);
 
-    string train_file = "past_year_data.csv";
+    string train_file = "other/past_year_data.csv";
     string csv_file_out = "player_data.csv";
 
     Prediction *p = new Prediction;
