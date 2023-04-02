@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 import json
 import csv
 
@@ -14,7 +14,12 @@ player_data = read_player_json()
 
 # HELPER FUNCTIONS
 
-def valid_names(name1, name2):
+def valid_surface(surface: str):
+    if (surface.lower() == "hard" or surface.lower() == "clay" or surface.lower() == "grass"):
+        return True
+    return False
+
+def valid_names(name1: str, name2: str):
     all_names = []
     with open('all_players.txt', 'r') as all_players:
         for line in all_players:
@@ -57,7 +62,7 @@ def multiplier(player_data, name: str):
 
     return mult
 
-def determine_winner(name1, name2, surface):
+def determine_winner(name1: str, name2: str, surface: str):
     if (surface.lower() == "hard"):
         player1_elo: float = float(player_data[name1]["elo_hard"]) * multiplier(player_data, name1)
         player2_elo: float = float(player_data[name2]["elo_hard"]) * multiplier(player_data, name2)
@@ -104,7 +109,9 @@ def read_root():
 @app.get("/predict/")
 def return_winner(player1: str, player2: str, surface: str):
     if (not valid_names(player1, player2)):
-        return {"Error": "Invalid player name"}
+        raise HTTPException(status_code=404, detail="Invalid player name")
+    elif (not valid_surface(surface)):
+        raise HTTPException(status_code=404, detail="Invalid surface given")
 
     return determine_winner(player1, player2, surface)
 
@@ -112,7 +119,9 @@ def return_winner(player1: str, player2: str, surface: str):
 @app.get("/current_best/{surface}")
 def return_bestN(surface: str, n: int):
     if (n < 1 or n > 20):
-        return {"Error": "n must be between 1 and 20"}
+        raise HTTPException(status_code=404, detail="n must be between 1 and 20")
+    elif (not valid_surface(surface)):
+        raise HTTPException(status_code=404, detail="Invalid surface given")
 
     # Return the best N players for the given surface
     best_players =  bestN(surface, n)
