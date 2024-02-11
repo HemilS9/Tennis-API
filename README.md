@@ -5,14 +5,14 @@ This API currently supports 2 primary features:
 
 ## Installation
 - First, navigate to the fastapi directory: `cd fastapi`
-- Create a new virtual environment with: `python3 -m venv myenv`
-- Activate your virtual environmnt with: `source myenv/bin/activate`
-- Install fastapi and uvicorn: `pip install fastapi` and `pip install uvicorn`
+- Create a new virtual environment with: `python3 -m venv api-env`
+- Activate your virtual environmnt with: `source api-env/bin/activate`
+- Install fastapi and uvicorn: `pip install -r requirements.txt`
 
 ## Calling the API
 - Enter the following commands in the terminal:
     - `cd fastapi`
-    - `source myenv/bin/activate`
+    - `source api-env/bin/activate`
     - `uvicorn main:app --reload`
 - Navigate to `localhost:8000` on your browser
 
