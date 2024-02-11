@@ -7,7 +7,6 @@
 
 using std::vector, std::string, std::cout, std::endl;
 
-
 class Prediction {
     private:
     string surface;
